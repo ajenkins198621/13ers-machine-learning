@@ -1,634 +1,875 @@
-Elevation,Rank,Rank,Peak Name,Range,Quadrangle
-"13,787'",116,1,Mosquito Peak,Mosquito,Climax
-"13,706'",nr,1,Treasurevault Mountain,Mosquito,Climax
-"13,682'",nr,1,Wood Mountain,San Juan,Handies Peak
-"13,662'",167,1,Carson Peak,San Juan,Pole Creek Mountain
-"13,632'",179,1,"""Electric Pass Peak""Formerly UN 13,635",Elks,Hayden Peak
-"13,579'",200,1,Rosalie Peak,Front,Harris Park
-"13,560'",nr,1,"Kuss PeakFormerly UN 13,548; AKA: Repeater Pk.",Mosquito,Climax
-"13,537'",235,1,"""Epaulie""Epaulet Mtn.",Front,Harris Park
-"13,522'",243,1,Trinchera Peak,Sangre de Cristo,Trinchera Peak
-"13,541'",232,1,UN 13541,Sawatch,Independence Pass
-"13,462'",283,1,Hanson Peak,San Juan,Handies Peak
-"13,453'",291,1,"""Tundra Top""Formerly UN 13,450",San Juan,Pole Creek Mountain
-"13,418'",nr,1,Mount Rhoda,San Juan,Howardsville
-"13,405'",319,1,Bent Peak,San Juan,Pole Creek Mountain
-"13,389'",330,1,Baldy Cinco,San Juan,Baldy Cinco
-"13,353'",352,1,Kendall Mountain,San Juan,Silverton
-"13,339'",363,1,Coney Benchmark,San Juan,Finger Mesa
-"13,310'",392,1,"""Baldy no es Cinco""Formerly UN 13313",San Juan,Baldy Cinco
-"13,290'",409,1,"""Fools Pyramid""Formerly UN13278",San Juan,Weminuche Pass
-"13,281'",415,1,Seigal Mountain,San Juan,Handies Peak
-"13,256'",435,1,UN 13256(Formerly UN 13260 D),San Juan,Finger Mesa
-"13,224'",465,1,Fairview Peak,Sawatch,Fairview Peak
-"13,206'",488,1,Bennett Peak,San Juan,Jasper
-"13,173'",501,1,UN 13173Formerly UN 13162 B,Elks,Gothic
-"13,158'",nr,1,"""Window Peak""UN 13158",San Juan,Rio Grande Pyramid
-"13,120'",552,1,Francisco Peak,Sangre de Cristo,El Valle Creek
-"13,112'",nr,1,Lomo Liso Mountain,Sangre de Cristo,El Valle Creek
-"13,111'",560,1,Hancock PeakUN 13111,Sawatch,Garfield
-"13,117'",554,1,UN 13117Formerly UN 13109,San Juan,Howardsville
-"13,118'",553,1,"""Baldy Lejos""Formerly UN 13100 E",San Juan,Baldy Cinco
-"13,078'",587,1,UN 13078Formerly UN 13075,San Juan,Handies Peak
-"13,015'",nr,1,UN 13015Formerly UN 13020 A,Elks,Maroon Bells
-"13,030'",620,1,"""The Unicorn""Formerly UN 13020",San Juan,Summit Peak
-"13,013'",628,1,Pennsylvania Mountain,Mosquito,Climax
-"13,591'",194,1,Mount Evans B,Mosquito,Climax
-"13,591'",194,1,Mount Evans B,Mosquito,Climax
-"13,988'",55,2,Stewart Peak,San Juan,Stewart Peak
-"13,979'",57,2,"Ouray, Mount",Sawatch,Mount Ouray
-"13,943'",63,2,Fletcher Mountain,Tenmile,Copper Mountain
-"13,965'",59,2,Pacific Peak,Tenmile,Breckenridge
-"13,942'",64,2,French Mountain,Sawatch,Mount Massive
-"13,939'",65,2,Mount Hope,Sawatch,Mount Elbert
-"13,911'",71,2,Red Mountain,Sangre de Cristo,Culebra Peak
-"13,911'",71,2,Red Mountain,Sangre de Cristo,Culebra Peak
-"13,918'",68,2,Horseshoe Mountain,Mosquito,Mount Sherman
-"13,904'",74,2,"""Phoenix Peak""Formerly UN 13,895",San Juan,Halfmoon Pass
-"13,885'",nr,2,Frasco Benchmark,Sawatch,Mount Massive
-"13,871'",76,2,Mount Buckskin,Mosquito,Climax
-"13,867'",79,2,Jones Mountain (A),San Juan,Handies Peak
-"13,869'",77,2,"""North Apostle""",Sawatch,Winfield
-"13,866'",81,2,Clinton Peak,Mosquito,Climax
-"13,860'",83,2,Crystal Peak,Tenmile,Breckenridge
-"13,860'",84,2,Mount Edwards,Front,Grays Peak
-"13,854'",86,2,California Peak,Sangre de Cristo,Blanca Peak
-"13,843'",89,2,Mount Oklahoma,Sawatch,Mt. Champion
-"13,856'",85,2,"Atlantic PeakFormerly UN 13,841",Tenmile,Copper Mountain
-"13,837'",92,2,Turret Peak,San Juan,Snowdon Peak
-"13,838'",90,2,"UN 13838Formerly UN 13,832",San Juan,Redcloud Peak
-"13,850'",87,2,Holy Cross Ridge,Sawatch,Mount of the Holy Cross
-"13,837'",93,2,"""Huerfano Peak""Formerly UN 13,828",Sangre de Cristo,Blanca Peak
-"13,826'",96,2,"""Lackawanna Peak""Formerly UN 13,823",Sawatch,Independence Pass
-"13,828'",95,2,Mount Silverheels,Front,Alma
-"13,825'",97,2,Rio Grande Pyramid,San Juan,Rio Grande Pyramid
-"13,820'",98,2,"UN 13820Formerly UN 13,811",San Juan,Redcloud Peak
-"13,816'",101,2,Niagara Peak,San Juan,Handies Peak
-"13,814'",103,2,American Peak,San Juan,Handies Peak
-"13,040'",612,2,Organ MountainOrgan Mountain B,San Juan,Columbine Pass
-"13,801'",110,2,"UN 13,801Formerly UN 13,795",San Juan,Redcloud Peak
-"13,801'",109,2,Rito Alto Peak,Sangre de Cristo,Rito Alto Peak
-"13,799'",111,2,Square Top Mountain,Front,Montezuma
-"13,789'",114,2,Rinker Peak,Sawatch,Mount Elbert
-"13,778'",120,2,Garfield Peak,Sawatch,Independence Pass
-"13,777'",nr,2,Fuller Peak,San Juan,Ophir
-"13,758'",123,2,Bull Hill,Sawatch,Mount Elbert
-"13,757'",124,2,Mount Sheridan,Mosquito,Mount Sherman
-"13,747'",129,2,Mount Aetna,Sawatch,Garfield
-"13,746'",130,2,Sayres Benchmark,Sawatch,Mount Elbert
-"13,309'",393,2,Grizzly PeakGrizzly Peak E,Sawatch,Pieplant
-"13,743'",132,2,Argentine Peak,Front,Montezuma
-"13,738'",135,2,"UN 13738(Formerly UN 13,736)",Sawatch,Mt. Champion
-"13,739'",134,2,T 0,San Juan,Telluride
-"13,715'",139,2,Vermejo Peak,Sangre de Cristo,Culebra Peak
-"13,740'",133,2,"""Animas Forks Mountain""Formerly UN 13,722 B",San Juan,Handies Peak
-"13,722'",136,2,Pole Creek Mountain,San Juan,Pole Creek Mountain
-"13,473'",277,2,Silver MountainSilver Mountain B,San Juan,Telluride
-"13,712'",142,2,UN 13712,Sawatch,Mount Antero
-"13,721'",138,2,Twining Peak,Sawatch,Mt. Champion
-"13,710'",nr,2,La Garita Peak,San Juan,Halfmoon Pass
-"13,708'",nr,2,"UN13,708",San Juan,Handies Peak
-"13,692'",153,2,Colony Baldy,Sangre de Cristo,Crestone Peak
-"13,712'",141,2,"Peak Six""Sceptor""",San Juan,Storm King Peak
-"13,703'",145,2,Baldy Alto,San Juan,Stewart Peak
-"13,697'",151,2,Rolling Mountain,San Juan,Ophir
-"13,698'",149,2,"""Every Mountain""Formerly UN 13,691",San Juan,Redcloud Peak
-"13,694'",152,2,"""Cooper Creek Peak""Formerly UN 13,688 A",San Juan,Redcloud Peak
-"13,692'",154,2,Cirque Mountain,San Juan,Mount Sneffels
-"13,703'",144,2,Bald Mountain,Front,Boreas Pass
-"13,684'",156,2,"UN 13684(Formerly UN13,681)",San Juan,Uncompahgre Peak
-"13,679'",160,2,Purgatoire Peak,Sangre de Cristo,Culebra Peak
-"13,681'",159,2,"""Quarter Peak""(Formerly UN13674)",San Juan,Redcloud Peak
-"13,683'",157,2,"Mount TwetoAKA: ""Divide Benchmark""",Mosquito,Climax
-"13,675'",161,2,Mount Jackson,Sawatch,Mount Jackson
-"13,657'",169,2,Mount White,Sawatch,Mount Antero
-"13,662'",168,2,Carbonate Mountain,Sawatch,Saint Elmo
-"13,656'",170,2,"UN 13656Formerly UN 13660 A in G&M and 13,620 on Lists of John.",Sangre de Cristo,Blanca Peak
-"13,655'",171,2,Taylor Mountain,Sawatch,Garfield
-"13,672'",162,2,Mount Mamma,Sawatch,Saint Elmo
-"13,645'",173,2,Mount Champion,Sawatch,Mt. Champion
-"13,648'",172,2,Redcliff,San Juan,Wetterhorn Peak
-"13,641'",175,2,Bard Peak,Front,Grays Peak
-"13,641'",176,2,Peak 10,Tenmile,Breckenridge
-"13,637'",177,2,"""Anderson Peak""Formerly UN 13,631 A",Sawatch,New York Peak
-"13,584'",197,2,West Spanish Peak,Sangre de Cristo,Spanish Peaks
-"13,627'",181,2,UN 13627,Sawatch,Mount Yale
-"13,609'",nr,2,Jones Peak,Sawatch,Mount Antero
-"13,297'",405,2,Electric PeakElectric Peak B,San Juan,Storm King Peak
-"13,616'",186,2,Cyclone Mountain,Sawatch,Saint Elmo
-"13,597'",191,2,Cottonwood Peak,Sangre de Cristo,Valley View Hot Springs
-"13,587'",196,2,"UN 13587Formerly UN 13,581",San Juan,Pole Creek Mountain
-"13,584'",198,2,"Twin Peaks, NorthTwin Peaks A",Sangre de Cristo,Twin Peaks
-"13,573'",209,2,UN 13573Previously UN 13580 A,San Juan,Pole Creek Mountain
-"13,573'",209,2,UN 13573Previously UN 13580 A,San Juan,Pole Creek Mountain
-"13,577'",204,2,UN 13577,Sangre de Cristo,Blanca Peak
-"13,580'",199,2,Mount Parnassus,Front,Grays Peak
-"13,560'",213,2,Wasatch Mountain,San Juan,Telluride
-"13,576'",205,2,Fluted Peak,Sangre de Cristo,Horn Peak
-"13,559'",214,2,Pettingell Peak,Front,Loveland Pass
-"13,577'",202,2,Gibbs Peak,Sangre de Cristo,Electric Peak
-"13,545'",224,2,Tower Mountain,San Juan,Howardsville
-"13,552'",222,2,"UN 13552Formerly UN 13,546",Sangre de Cristo,Horn Peak
-"13,553'",220,2,Whitecross Mountain,San Juan,Redcloud Peak
-"13,575'",208,2,UN 13575(Formerly UN 13540 A),San Juan,Dolores Peak
-"13,544'",226,2,Emma Burr Mountain,Sawatch,Cumberland Pass
-"13,549'",223,2,"UN 13549Formerly UN 13,535 B",San Juan,Handies Peak
-"13,530'",239,2,Boulder Mountain,Sawatch,Saint Elmo
-"13,541'",231,2,"""Cataract Peak""Formerly UN 13,524",San Juan,Pole Creek Mountain
-"13,541'",231,2,"""Cataract Peak""Formerly UN 13,524",San Juan,Pole Creek Mountain
-"13,526'",nr,2,Browns Peak,Sawatch,Winfield
-"13,513'",248,2,Ypsilon Mountain,Front,Trail Ridge
-"13,517'",244,2,Silver PeakFormerly UN 13513,Sangre de Cristo,Electric Peak
-"13,505'",254,2,UN 13505Previously UN 13510 A (G&M),San Juan,Baldy Cinco
-"13,509'",nr,2,UN 13509Formerly: UN 13510 B (G&M),San Juan,Ironton
-"13,514'",245,2,Telluride Peak,San Juan,Ironton
-"13,512'",250,2,"""Petroleum Peak""Formerly UN 13505",Sawatch,New York Peak
-"13,494'",263,2,"""Cotton King Peak""Previously UN 13490",Sangre de Cristo,Rito Alto Peak
-"13,504'",256,2,Mount Marcy,Sangre de Cristo,Electric Peak
-"13,492'",266,2,Cuatro Peak,Sangre de Cristo,Trinchera Peak
-"13,487'",268,2,Canby Mountain,San Juan,Howardsville
-"13,475'",276,2,Peak Two,San Juan,Storm King Peak
-"13,495'",260,2,Chipeta Mountain,Sawatch,Mount Ouray
-"13,475'",275,2,La Junta Peak,San Juan,Telluride
-"13,481'",272,2,Mount RidgwayS. 2,San Juan,Mount Sneffels
-"13,471'",278,2,"""AlamositoFormerly UN 13466",Sangre de Cristo,Culebra Peak
-"13,471'",279,2,UN 13471Previously UN 13462 A (G&M),Sawatch,Winfield
-"13,465'",282,2,Quail Mountain,Sawatch,Mount Elbert
-"13,440'",298,2,"UN 13440Formerly UN13,460 East",Sawatch,Independence Pass
-"13,440'",298,2,"UN 13440Formerly UN13,460 East",Sawatch,Independence Pass
-"13,480'",274,2,San Joaquin Ridge,San Juan,Telluride
-"13,466'",281,2,Ute Ridge,San Juan,Rio Grande Pyramid
-"13,461'",284,2,"""Campbell Creek Peak""Formerly UN 13454",San Juan,Redcloud Peak
-"13,455'",288,2,Kendall Peak,San Juan,Howardsville
-"13,454'",290,2,Horn Peak,Sangre de Cristo,Horn Peak
-"13,438'",299,2,Taylor Peak A,Elks,Pearl Pass
-"13,441'",295,2,"""Mountaineer Peak""Formerly UN 13,434",San Juan,Howardsville
-"13,443'",293,2,UN 13443Formerly UN 13433,Sawatch,Mount Jackson
-"13,440'",296,2,Jenkins Mountain,Sawatch,Pieplant
-"13,435'",304,2,Grizzly PeakGrizzly Peak D,Front,Grays Peak
-"13,420'",309,2,Mummy Mountain,Front,Estes Park
-"13,421'",307,2,"""Mount Soso""Formerly UN 13417",San Juan,Emerald Lake
-"13,417'",313,2,Little Giant Peak,San Juan,Howardsville
-"13,414'",315,2,Mount Wilcox,Front,Montezuma
-"13,398'",324,2,Mariquita Peak,Sangre de Cristo,El Valle Creek
-"13,408'",nr,2,South Arapaho Peak,Front,Monarch Lake
-"13,367'",345,2,Parry Peak,Front,Empire
-"13,361'",350,2,Rogers Peak,Front,Harris Park
-"13,381'",337,2,Geissler Mountain East,Sawatch,Mt. Champion
-"13,405'",318,2,"""Triangle Peak""Formerly UN 13380",Elks,Gothic
-"13,385'",331,2,Italian Mountain,Elks,Pearl Pass
-"13,382'",335,2,UN 13382,San Juan,Wetterhorn Peak
-"13,384'",333,2,Lakes Peak,Sangre de Cristo,Electric Peak
-"13,385'",332,2,UN 13385,Sawatch,Mount Harvard
-"13,372'",343,2,Mount Guyot,Front,Boreas Pass
-"13,381'",336,2,Buckskin Benchmark,Elks,Maroon Bells
-"13,379'",338,2,Dome Mountain,San Juan,Howardsville
-"13,375'",342,2,Monumental Peak,Sawatch,Garfield
-"13,375'",341,2,Sultan Mountain,San Juan,Silverton
-"13,322'",376,2,De Anza PeakDe Anza B,Sangre de Cristo,El Valle Creek
-"13,379'",339,2,Pearl Mountain,Elks,Pearl Pass
-"13,370'",344,2,Engelmann Peak,Front,Grays Peak
-"13,360'",351,2,T 7,San Juan,Ironton
-"13,362'",347,2,Hoosier Ridge,Front,Breckenridge
-"13,311'",391,2,Hermit Peak,Sangre de Cristo,Rito Alto Peak
-"13,318'",382,2,Malemute Peak,Elks,Hayden Peak
-"13,351'",355,2,"""Tincup Peak""Formerly UN 13345",Sawatch,Cumberland Pass
-"13,351'",354,2,UN 13351,San Juan,Rio Grande Pyramid
-"13,351'",356,2,Beattie Peak,San Juan,Ophir
-"13,347'",361,2,Mount HerardFormerly Mount Seven,Sangre de Cristo,Medano Pass
-"13,064'",595,2,Mount Owen,Elks,Oh-Be-Joyful
-"13,347'",362,2,Brown Mountain,San Juan,Ironton
-"13,337'",365,2,Mount Maxwell,Sangre de Cristo,El Valle Creek
-"13,333'",367,2,Venable Peak,Sangre de Cristo,Rito Alto Peak
-"13,339'",364,2,"""Proposal Peak""Formerly UN 13330",San Juan,Handies Peak
-"13,336'",nr,2,Cinnamon Mountain,San Juan,Handies Peak
-"13,330'",369,2,West Buffalo Peak,Mosquito,Marmot Peak
-"13,333'",366,2,"""Lake Fork Peak""Formerly UN 13322",Sawatch,Pieplant
-"13,329'",371,2,Sunshine Mountain,San Juan,Handies Peak
-"13,329'",372,2,Trico Peak,San Juan,Ironton
-"13,332'",368,2,UN 13332,Sawatch,Saint Elmo
-"13,316'",384,2,"""Oyster Peak""Formerly UN 13312 B",Elks,Pearl Pass
-"13,316'",384,2,"""Oyster Peak""Formerly UN 13312 B",Elks,Pearl Pass
-"13,319'",378,2,Mount Alice,Front,Isolation Peak
-"13,311'",389,2,Aztec Mountain,San Juan,Columbine Pass
-"13,323'",375,2,UN 13323,San Juan,Emerald Lake
-"13,319'",379,2,V 2,San Juan,Ophir
-"13,318'",381,2,UN 13318,San Juan,Rio Grande Pyramid
-"13,314'",386,2,Mount Warren,Front,Mount Evans
-"13,308'",395,2,"Geissler Mountain, West",Sawatch,Mt. Champion
-"13,304'",400,2,Summit Peak,San Juan,Summit Peak
-"13,305'",398,2,Middle Peak,San Juan,Dolores Peak
-"13,323'",374,2,Mount Daly,Elks,Capitol Peak
-"13,302'",403,2,"UN 13302Formerly UN 13300 E or ""V 8""",San Juan,Ophir
-"13,303'",402,2,East Buffalo Peak,Mosquito,Marmot Peak
-"13,307'",396,2,Galena Mountain,San Juan,Howardsville
-"13,302'",403,2,"UN 13302Formerly UN 13300 E or ""V 8""",San Juan,Ophir
-"13,305'",399,2,UN 13305Previously UN 13295,Sawatch,Pieplant
-"13,073'",590,2,Sheep MountainSheep Mountain D,San Juan,Columbine Pass
-"13,289'",410,2,Dolores Peak,San Juan,Dolores Peak
-"13,286'",413,2,Bonita Peak,San Juan,Handies Peak
-"13,277'",419,2,"""Wayah Peak""Formerly UN13284",Sawatch,Mt. Champion
-"13,277'",nr,2,Mount Lady Washington,Front,Longs Peak
-"13,277'",418,2,Comanche Peak,Sangre de Cristo,Horn Peak
-"13,278'",417,2,Ruby Mountain,Front,Montezuma
-"13,126'",547,2,Kiowa Peak,Front,Ward
-"13,286'",412,2,Whitney Peak,Sawatch,Mount of the Holy Cross
-"13,269'",427,2,Antora Peak,Sawatch,Bonanza
-"13,271'",425,2,Wildhorse Peak,San Juan,Wetterhorn Peak
-"13,266'",430,2,Geneva Peak,Front,Montezuma
-"13,272'",424,2,Marble Mountain,Sangre de Cristo,Crestone Peak
-"13,270'",426,2,Knife Point,San Juan,Storm King Peak
-"13,274'",421,2,UN13274Formerly UN 13261,San Juan,Weminuche Pass
-"13,275'",420,2,Darley MountainFormerly UN13260.,San Juan,Handies Peak
-"13,262'",432,2,"""Golden Tops""Formerly UN13260 B",Elks,Maroon Bells
-"13,254'",438,2,Broken Hill,San Juan,Uncompahgre Peak
-"13,261'",433,2,"""Sheep Rock Mountain""Formerly UN13255",Sawatch,Winfield
-"13,272'",422,2,Henry Mountain,Sawatch,Fairview Peak
-"13,258'",434,2,UN 13258Formerly UN13253,Sawatch,Winfield
-"13,268'",428,2,S 8,San Juan,Sams
-"13,253'",439,2,UN 13253Formerly UN 13248,Sawatch,Mount of the Holy Cross
-"13,248'",443,2,Spring Mountain,Sangre de Cristo,Horn Peak
-"13,255'",437,2,UN 13255,Elks,Highland Peak
-"13,243'",nr,2,Notch Mountain,Sawatch,Mount of the Holy Cross
-"13,251'",441,2,UN 13251(Formerly UN 13235),Sawatch,Pieplant
-"13,239'",450,2,Mount Sniktau,Front,Grays Peak
-"13,238'",453,2,Turner Peak,Sawatch,Tincup
-"13,239'",451,2,UN 13239Formerly UN 13232 A,Sawatch,Pieplant
-"13,232'",458,2,UN 13232Formerly UN 13230,San Juan,Rio Grande Pyramid
-"13,238'",454,2,Red MountainRed Mountain C,Front,Breckenridge
-"13,217'",474,2,Mount Audubon,Front,Ward
-"13,240'",448,2,"""Weminuche Peak""Formerly UN 13220 A",San Juan,Emerald Lake
-"13,214'",478,2,Jones Mountain,Sawatch,Tincup
-"13,225'",464,2,Engineer Mountain,San Juan,Handies Peak
-"13,214'",479,2,UN 13214Formerly UN 13216,Elks,Maroon Bells
-"13,223'",466,2,"""Hassell Peak""Formerly UN13215",Front,Loveland Pass
-"13,217'",473,2,Homestake Peak,Sawatch,Homestake Reservoir
-"13,212'",482,2,Gladstone Ridge,Sawatch,Mount Yale
-"13,195'",493,2,Powell Peak,Front,McHenrys Peak
-"13,211'",483,2,"Hayden Mountain, South",San Juan,Ironton
-"13,215'",477,2,UN 13215Formerly UN 13206,San Juan,Wetterhorn Peak
-"13,212'",481,2,Jacque Peak,Gore,Copper Mountain
-"13,034'",nr,2,Eagle PeakEagle Peak B/Formerly UN 13043,Sawatch,Mount Jackson
-"13,209'",484,2,Mount Nebo,San Juan,Storm King Peak
-"13,208'",485,2,Tuttle Mountain,San Juan,Handies Peak
-"13,218'",472,2,"""Leaning South Peak""Formerly UN13203",Sangre de Cristo,Trinchera Peak
-"13,207'",486,2,UN 13207Formerly UN 13201,San Juan,Wetterhorn Peak
-"13,204'",489,2,"""Mountain Boy Peak""Formerly UN 13198",Sawatch,Independence Pass
-"13,207'",487,2,Peak 9,Tenmile,Breckenridge
-"13,199'",492,2,London Mountain,Mosquito,Climax
-"13,194'",nr,2,Mount Moss,San Juan,La Plata
-"13,176'",500,2,"""Fancy Peak""Formerly UN13192",Sawatch,Mount Jackson
-"13,186'",494,2,Red PeakRed Peak B,Gore,Willow Lakes
-"13,173'",502,2,Mount Valois,San Juan,Columbine Pass
-"13,223'",467,2,UN 13223Formerly UN 13180 A,Elks,Maroon Bells
-"13,181'",496,2,Santa Fe PeakCollier Mtn.,Front,Montezuma
-"13,167'",510,2,Grand Turk,San Juan,Silverton
-"13,183'",495,2,Copeland Mountain,Front,Isolation Peak
-"13,176'",498,2,Conejos Peak,San Juan,Platoro
-"13,171'",505,2,UN 13171Formerly UN 13169,San Juan,Rio Grande Pyramid
-"13,073'",590,2,Sheep MountainSheep Mountain D,San Juan,Columbine Pass
-"13,172'",503,2,Kelso Mountain,Front,Grays Peak
-"13,179'",497,2,UN 13179,San Juan,Pole Creek Mountain
-"13,164'",513,2,V 5,San Juan,Ophir
-"13,146'",529,2,"""Medano Peak""Formerly UN 13,153 A",Sangre de Cristo,Medano Pass
-"13,157'",521,2,Taylor Peak B,Front,McHenrys Peak
-"13,159'",519,2,UN 13159Formerly UN 13153 B,Sangre de Cristo,Horn Peak
-"13,164'",515,2,Pomeroy Mountain,Sawatch,Saint Elmo
-"13,158'",520,2,Montezuma Peak,San Juan,Summit Peak
-"13,164'",514,2,Arikaree Peak,Front,Monarch Lake
-"13,150'",527,2,UN 13150Formerly UN 13147,Sawatch,Garfield
-"13,129'",546,2,Mount Flora,Front,Empire
-"13,145'",532,2,"""Jackass Point""Formerly UN 13145",San Juan,Telluride
-"13,154'",525,2,Little Horn Peak,Sangre de Cristo,Horn Peak
-"13,144'",533,2,Willoughby Mountain,Elks,Highland Peak
-"13,145'",531,2,UN 13145Formerly UN 13140 B,Sawatch,Pieplant
-"13,152'",526,2,"""West Virginia Peak""Formerly UN 13140 A",Sawatch,Winfield
-"13,119'",nr,2,Peak Twelve,San Juan,Storm King Peak
-"13,135'",540,2,Savage Peak,Sawatch,Mount Jackson
-"13,131'",542,2,"Hayden Mountain, North",San Juan,Ironton
-"13,143'",535,2,Hunchback Mountain,San Juan,Storm King Peak
-"13,169'",508,2,S 9,San Juan,Sams
-"13,140'",537,2,UN 13140Formerly UN 13132,San Juan,Handies Peak
-"13,131'",543,2,Mount Eva,Front,Empire
-"13,134'",541,2,Boskoff PeakAKA: Woods Peak,San Juan,Dolores Peak
-"13,128'",nr,2,UN 13128Formerly UN 13123 B,Sangre de Cristo,Electric Peak
-"13,138'",539,2,Peters Peak,San Juan,Emerald Lake
-"13,130'",545,2,UN 13130Formerly UN 13122,Sangre de Cristo,Rito Alto Peak
-"13,114'",557,2,Isolation Peak,Front,Isolation Peak
-"13,126'",548,2,"""Cupid""Formerly UN 13117",Front,Grays Peak
-"13,122'",549,2,Fitzpatrick Peak,Sawatch,Cumberland Pass
-"13,116'",555,2,Cow BenchmarkAKA: Amphitheater Mtn.,San Juan,Wetterhorn Peak
-"13,111'",560,2,Hancock PeakUN 13111,Sawatch,Garfield
-"13,121'",551,2,UN 13121Formerly UN 13110,San Juan,Storm King Peak
-"13,139'",538,2,UN 13139Williams Mtn. North,Sawatch,Mt. Champion
-"13,110'",561,2,UN 13110Formerly UN 13106,San Juan,Uncompahgre Peak
-"13,112'",558,2,Bushnell Peak,Sangre de Cristo,Bushnell Peak
-"13,105'",nr,2,South Twilight Peak,San Juan,Snowdon Peak
-"13,102'",567,2,UN 13102Formerly UN 13100 A,San Juan,Sheep Mountain
-"13,108'",564,2,Middle MountainMiddle Mountain A,Sawatch,Independence Pass
-"13,102'",567,2,UN 13102Formerly UN 13100 A,San Juan,Sheep Mountain
-"13,122'",550,2,Mount Kreutzer,Sawatch,Tincup
-"13,094'",573,2,UN 13094Formerly UN 13093,San Juan,Handies Peak
-"13,108'",563,2,UN 13108Formerly UN 13091,San Juan,Uncompahgre Peak
-"13,102'",568,2,UN 13102Formerly UN 13090,Sawatch,New York Peak
-"13,094'",572,2,Virginia Peak,Sawatch,Winfield
-"13,083'",581,2,Boreas Mountain,Front,Boreas Pass
-"13,083'",582,2,"""Huerfanito""Formerly UN 13081",Sangre de Cristo,Blanca Peak
-"13,080'",584,2,Whale Peak,Front,Jefferson
-"13,093'",574,2,UN 13093Formerly UN 13078,Sawatch,Saint Elmo
-"13,084'",580,2,North Twilight Peak,San Juan,Snowdon Peak
-"13,078'",586,2,"""West Tellurium""Formerly UN 13074",Sawatch,New York Peak
-"13,077'",588,2,Blackwall Mountain,San Juan,Wetterhorn Peak
-"13,061'",599,2,Hunts Peak,Sangre de Cristo,Wellsville
-"13,073'",590,2,Sheep MountainSheep Mountain D,San Juan,Columbine Pass
-"13,082'",583,2,UN 13082Formerly UN 13070,Sawatch,Saint Elmo
-"13,054'",nr,2,Mount Chiquita,Front,Trail Ridge
-"13,076'",589,2,UN 13076Formerly UN 13069,San Juan,Howardsville
-"13,063'",597,2,"""Fravert Peak""Formerly UN 13062 A",Elks,Snowmass Mountain
-"13,063'",597,2,"""Fravert Peak""Formerly UN 13062 A",Elks,Snowmass Mountain
-"13,064'",595,2,Mount Owen,Elks,Oh-Be-Joyful
-"13,064'",596,2,"""Chalk Rock Mountain""Formerly UN 13,055",Sawatch,Tincup
-"13,054'",606,2,"""Pyramid Mountain""Previously UN 13054",Sangre de Cristo,Rito Alto Peak
-"13,059'",602,2,Houghton Mountain,San Juan,Handies Peak
-"13,048'",609,2,UN 13048Formerly UN 13051,San Juan,Uncompahgre Peak
-"13,038'",615,2,UN 13038Formerly UN 13050 B,Sawatch,Cumberland Pass
-"13,043'",610,2,"""V 7""Previously UN 13042",San Juan,Silverton
-"13,063'",598,2,"""Grand Traverse Peak""Formerly UN 13041 B",Gore,Willow Lakes
-"13,048'",607,2,UN 13048Formerly UN 13039,Elks,Maroon Bells
-"13,034'",616,2,"""Old Baldy""Formerly UN 13034",Front,Monarch Lake
-"13,040'",611,2,West Elk Peak,Elks,West Elk Peak
-"13,030'",619,2,UN 13030Formerly UN 13034,San Juan,Baldy Cinco
-"13,039'",614,2,UN 13039Formerly UN 13033 Williams Mtn. South C,Sawatch,Thimble Rock
-"13,031'",618,2,"""Menos Alto Peak""Formerly UN 13028",Sangre de Cristo,Rito Alto Peak
-"13,033'",617,2,UN 13033Formerly UN 13026,Sawatch,Mt. Champion
-"13,015'",nr,2,UN 13015Formerly UN 13020 A,Elks,Maroon Bells
-"13,015'",nr,2,UN 13015Formerly UN 13020 A,Elks,Maroon Bells
-"13,015'",626,2,UN 13015Formerly UN 13016,San Juan,Uncompahgre Peak
-"13,026'",622,2,UN 13026Formerly UN 13015,San Juan,Halfmoon Pass
-"13,019'",625,2,Chief Mountain,San Juan,Little Squaw Creek - Knife Edge (Revised name)
-"13,005'",633,2,"""Golden Bear Peak""Formerly UN 13010 A",Front,Loveland Pass
-"13,014'",627,2,UN 13014Formerly UN 13003,Sawatch,Mt. Champion
-"13,006'",630,2,UN 13006Formerly UN 13001,Sawatch,Mt. Champion
-"13,916'",69,2,Emerald Peak,Sawatch,Winfield
-"13,916'",69,2,Emerald Peak,Sawatch,Winfield
-"13,872'",75,2,"Cronin PeakFormerly: UN 13,870",Sawatch,Saint Elmo
-"13,872'",75,2,"Cronin PeakFormerly: UN 13,870",Sawatch,Saint Elmo
-"13,861'",82,2,Dyer Mountain,Mosquito,Mount Sherman
-"13,863'",nr,2,Mount Spalding,Front,Mount Evans
-"13,604'",189,2,Gray Wolf Mountain,Front,Mount Evans
-"13,604'",189,2,Gray Wolf Mountain,Front,Mount Evans
-"13,604'",189,2,Gray Wolf Mountain,Front,Mount Evans
-"13,437'",300,2,T 5,San Juan,Telluride
-"13,272'",423,2,James Peak,Front,Empire
-"13,272'",423,2,James Peak,Front,Empire
-"13,213'",480,2,Teocalli Mountain,Elks,Gothic
-"13,213'",480,2,Teocalli Mountain,Elks,Gothic
-"13,145'",530,2,UN 13145Formerly UN 13159,San Juan,Ophir
-"13,145'",530,2,UN 13145Formerly UN 13159,San Juan,Ophir
-"13,579'",200,2,Rosalie Peak,Front,Harris Park
-"13,398'",324,2,Mariquita Peak,Sangre de Cristo,El Valle Creek
-"13,322'",376,2,De Anza PeakDe Anza B,Sangre de Cristo,El Valle Creek
-"13,073'",591,2,Kendall #2 BenchmarkFormerly UN13066,San Juan,Silverton
-"13,005'",632,2,Peak 8,Tenmile,Breckenridge
-"13,003'",634,2,UN 13003Formerly UN 12990,San Juan,Pole Creek Mountain
-"13,556'",218,2,"UN 13556 ""Independence Peak""Formerly UN 13,545",Sawatch,Mt. Champion
-"13,997'",54,2.5,Grizzly PeakGrizzly Peak A,Sawatch,Independence Pass
-"13,986'",56,2.5,"Columbia PointFormerly: UN 13,980",Sangre de Cristo,Crestone Peak
-"13,937'",66,2.5,Mount Adams,Sangre de Cristo,Horn Peak
-"13,905'",73,2.5,Casco Peak,Sawatch,Mount Elbert
-"13,909'",72,2.5,Vermilion Peak,San Juan,Ophir
-"13,867'",78,2.5,Vestal Peak,San Juan,Storm King Peak
-"13,848'",88,2.5,Hagerman Peak,Elks,Snowmass Mountain
-"13,838'",91,2.5,Jupiter Mountain,San Juan,Columbine Pass
-"13,812'",105,2.5,"""Obstruction Peak""Formerly UN 13,799",Sangre de Cristo,Crestone Peak
-"13,804'",107,2.5,Mount Arkansas,Mosquito,Climax
-"13,789'",115,2.5,Golden Horn,San Juan,Ophir
-"13,786'",117,2.5,UN 13786,Sawatch,Mount of the Holy Cross
-"13,780'",118,2.5,"""Magdalene Mountain""Silver King Peak/Magdalene Mtn. Formerly UN 13,762/Silver King Peak",Sawatch,Mount Harvard
-"13,763'",122,2.5,Deer Mountain,Sawatch,Mt. Champion
-"13,756'",125,2.5,San Miguel Peak,San Juan,Ophir
-"13,722'",137,2.5,Grizzly Mountain,Sawatch,Saint Elmo
-"13,699'",148,2.5,Gilpin Peak,San Juan,Telluride
-"13,689'",155,2.5,Mount Oso,San Juan,Emerald Lake
-"13,636'",178,2.5,Mount Silex,San Juan,Storm King Peak
-"13,628'",180,2.5,White Dome,San Juan,Storm King Peak
-"13,624'",183,2.5,The Guardian,San Juan,Storm King Peak
-"13,626'",182,2.5,"Mount BlaurockFormerly UN 13,616",Sawatch,Mount Elbert
-"13,614'",187,2.5,North Star Mountain,Tenmile,Breckenridge
-"13,599'",190,2.5,Peak One,San Juan,Storm King Peak
-"13,556'",217,2.5,Mount Powell,Gore,Mount Powell
-"13,577'",203,2.5,Chiefs Head Peak,Front,Isolation Peak
-"13,575'",207,2.5,Greylock Mountain,San Juan,Columbine Pass
-"13,575'",206,2.5,Broken Hand Peak,Sangre de Cristo,Crestone Peak
-"13,597'",192,2.5,West Apostle,Sawatch,Winfield
-"13,572'",210,2.5,"""Gudy Peak""Formerly UN 13,566",San Juan,Redcloud Peak
-"13,569'",211,2.5,"UN 13569Previously UN 13,565",Sangre de Cristo,El Valle Creek
-"13,565'",212,2.5,Hagues Peak,Front,Trail Ridge
-"13,575'",208,2.5,UN 13575(Formerly UN 13540 A),San Juan,Dolores Peak
-"13,541'",233,2.5,V 4,San Juan,Ophir
-"13,538'",234,2.5,"Ervin PeakFormerly UN 13,531",Sawatch,Mount Elbert
-"13,535'",236,2.5,Treasure Mountain,Elks,Snowmass Mountain
-"13,534'",237,2.5,Leviathan Peak,San Juan,Storm King Peak
-"13,527'",241,2.5,Star Peak,Elks,Pearl Pass
-"13,513'",249,2.5,"UN 13513Formerly UN 13,517",Sawatch,Winfield
-"13,532'",238,2.5,Keefe Peak,Elks,Maroon Bells
-"13,514'",246,2.5,Bridal PeakFormerly T11,San Juan,Telluride
-"13,505'",255,2.5,Eureka Mountain,Sangre de Cristo,Rito Alto Peak
-"13,509'",251,2.5,Fairchild Mountain,Front,Trail Ridge
-"13,506'",253,2.5,Hunter Peak,Elks,Maroon Bells
-"13,488'",267,2.5,Pagoda Mountain,Front,Isolation Peak
-"13,500'",259,2.5,Whitehouse Mountain,San Juan,Ouray
-"13,503'",258,2.5,Graystone Peak,San Juan,Storm King Peak
-"13,487'",269,2.5,Peak Three,San Juan,Storm King Peak
-"13,484'",271,2.5,T 10,San Juan,Ironton
-"13,473'",277,2.5,Silver MountainSilver Mountain B,San Juan,Telluride
-"13,473'",nr,2.5,Miranda Peak,Sangre de Cristo,El Valle Creek
-"13,469'",280,2.5,Treasury Mountain,Elks,Snowmass Mountain
-"13,450'",292,2.5,Apache Peak,Front,Monarch Lake
-"13,455'",289,2.5,S 6,San Juan,Mount Sneffels
-"13,437'",301,2.5,"""Mascot Peak""Formerly UN 13435",Sawatch,Mount Yale
-"13,441'",294,2.5,Twin Sisters East,San Juan,Ophir
-"13,437'",302,2.5,"""Sundog""Formerly UN 13432",San Juan,Redcloud Peak
-"13,440'",297,2.5,Vallecito Mountain,San Juan,Storm King Peak
-"13,403'",322,2.5,UN 13403Formerly UN 13427,San Juan,Handies Peak
-"13,436'",303,2.5,Spread Eagle Peak,Sangre de Cristo,Electric Peak
-"13,404'",321,2.5,Cleveland Peak,Sangre de Cristo,Crestone Peak
-"13,415'",314,2.5,Peak Four,San Juan,Storm King Peak
-"13,422'",306,2.5,Hilliard Peak,Elks,Maroon Bells
-"13,408'",317,2.5,UN 13408,San Juan,Halfmoon Pass
-"13,411'",316,2.5,White Benchmark,Elks,Gothic
-"13,403'",nr,2.5,UN 13403Formerly UN 13401,Sangre de Cristo,Crestone Peak
-"13,391'",328,2.5,Chicago Peak,San Juan,Ironton
-"13,392'",325,2.5,UN 13392,Sangre de Cristo,Crestone Peak
-"13,398'",323,2.5,Gold Dust Peak,Sawatch,Mount Jackson
-"13,382'",334,2.5,"Twin Sisters, West",San Juan,Ophir
-"13,361'",348,2.5,"""Mount Silverthorne""Formerly Willow Benchmark",Gore,Willow Lakes
-"13,350'",359,2.5,UN 13350 Emerald LakeFormerly UN 13340 A (G&M),San Juan,Emerald Lake
-"13,350'",358,2.5,UN 13350 Maroon Bells,Elks,Maroon Bells
-"13,322'",376,2.5,De Anza PeakDe Anza B,Sangre de Cristo,El Valle Creek
-"13,321'",377,2.5,Williams BenchmarkWilliams Mtn. South A,Sawatch,Thimble Rock
-"13,302'",403,2.5,"UN 13302Formerly UN 13300 E or ""V 8""",San Juan,Ophir
-"13,298'",404,2.5,Truro Peak,Sawatch,New York Peak
-"13,282'",414,2.5,"""Tabor Peak""UN13282",Sawatch,New York Peak
-"13,309'",393,2.5,Grizzly PeakGrizzly Peak E,Sawatch,Pieplant
-"13,244'",446,2.5,V 9,San Juan,Ophir
-"13,227'",462,2.5,Peak Z / 'Gorgeous Peak'(Formerly UN 13245),Gore,Willow Lakes
-"13,238'",452,2.5,Hesperus Mountain,San Juan,La Plata
-"13,242'",447,2.5,"""Cassi Peak""Formerly UN 13,232 B",Elks,Maroon Bells
-"13,226'",463,2.5,UN 13226Formerly UN 13229,Sangre de Cristo,El Valle Creek
-"13,220'",471,2.5,UN 13220Formerly UN 13222 A,San Juan,Uncompahgre Peak
-"13,228'",461,2.5,Greenhalgh Mountain,San Juan,Howardsville
-"13,246'",445,2.5,Hagar Mountain,Front,Loveland Pass
-"13,216'",475,2.5,Irving Peak,San Juan,Columbine Pass
-"13,221'",469,2.5,UN 13221Formerly UN13212,Sawatch,Mt. Champion
-"13,201'",nr,2.5,Lenawee Mountain,Front,Grays Peak
-"13,220'",470,2.5,UN 13220Formerly UN 13202,Sawatch,Mt. Champion
-"13,176'",499,2.5,Beaubien Peak,Sangre de Cristo,El Valle Creek
-"13,223'",467,2.5,UN 13223Formerly UN 13180 A,Elks,Maroon Bells
-"13,223'",467,2.5,UN 13223Formerly UN 13180 A,Elks,Maroon Bells
-"13,172'",504,2.5,"""Stony Pass Peak""Formerly UN 13165",San Juan,Howardsville
-"13,155'",523,2.5,UN 13155Formerly UN 13158,San Juan,Uncompahgre Peak
-"13,156'",522,2.5,South River Peak,San Juan,South River Peak
-"13,141'",536,2.5,Precipice PeakAKA: U 2,San Juan,Wetterhorn Peak
-"13,145'",531,2.5,UN 13145Formerly UN 13140 B,Sawatch,Pieplant
-"13,154'",524,2.5,Ogalalla Peak,Front,Isolation Peak
-"13,130'",544,2.5,Pika Peak,Sawatch,Mount Jackson
-"13,107'",566,2.5,"""Peak Twenty Two""Formerly UN 13105",San Juan,Columbine Pass
-"13,107'",565,2.5,"""Corbett Ridge""Formerly UN 13100 C",San Juan,Ouray
-"13,101'",569,2.5,"""Tomboy Peak""Formerly UN 13095",San Juan,Telluride
-"13,085'",578,2.5,"""Mount Solitude""Formerly UN 13090 B",Gore,Vail East
-"13,080'",585,2.5,Keller Mountain,Gore,Willow Lakes
-"13,094'",570,2.5,Peak XUN 13085 B,Gore,Vail East
-"13,085'",579,2.5,"""North Traverse Peak""Formerly UN 13079",Gore,Willow Lakes
-"13,060'",600,2.5,West Needle Mountain,San Juan,Snowdon Peak
-"13,067'",593,2.5,UN 13067Formerly UN 13060 A,Elks,Capitol Peak
-"13,048'",608,2.5,"""Dead Man Peak""Formerly UN 13050 A",Sangre de Cristo,Crestone Peak
-"13,060'",601,2.5,"""N 2""UN 13046/South Snowden",San Juan,Snowdon Peak
-"13,034'",nr,2.5,Eagle PeakEagle Peak B/Formerly UN 13043,Sawatch,Mount Jackson
-"13,028'",621,2.5,UN 13028Formerly UN 13020 B,Sangre de Cristo,Crestone Peak
-"13,009'",629,2.5,"Twin Sisters, North",Sangre de Cristo,Bushnell Peak
-"12,992'",nr,2.5,UN 12992Formerly UN 13010 B,San Juan,Cimarrona Peak
-"13,863'",nr,2.5,Mount Spalding,Front,Mount Evans
-"13,437'",300,2.5,T 5,San Juan,Telluride
-"13,272'",423,2.5,James Peak,Front,Empire
-"13,080'",585,2.5,Keller Mountain,Gore,Willow Lakes
-"13,222'",468,2.5,"""Ellingwood Ridge""Formerly UN 13206",Sawatch,La Plata
-"13,000'",636,2.5,"""Peak R""Formerly UN 12,995",Gore,Vail East
-Elevation,Rank,Class,Peak Name,Range,Quadrangle
-"13,977'",58,3,Pigeon Peak,San Juan,Snowdon Peak
-"13,960'",60,3,Ice Mountain,Sawatch,Winfield
-"13,952'",61,3,Cathedral Peak,Elks,Hayden Peak
-"13,944'",62,3,"""Thunder Pyramid""Formerly UN 13,932",Elks,Maroon Bells
-"13,923'",67,3,Gladstone Peak,San Juan,Mount Wilson
-"13,916'",70,3,Mount Meeker,Front,Allens Park
-"13,866'",80,3,Half Peak,San Juan,Pole Creek Mountain
-"13,817'",99,3,Arrow Peak,San Juan,Storm King Peak
-"13,804'",108,3,"""Castleabra""Foremerly UN 13,803",Elks,Maroon Bells
-"13,789'",113,3,Animas Mountain,San Juan,Snowdon Peak
-"13,793'",112,3,Potosi Peak,San Juan,Ironton
-"13,778'",119,3,Ulysses S. Grant Peak,San Juan,Ophir
-"13,765'",121,3,West Trinity,San Juan,Storm King Peak
-"13,753'",127,3,Storm King Peak,San Juan,Storm King Peak
-"13,752'",128,3,East Trinity,San Juan,Storm King Peak
-"13,746'",131,3,Pilot Knob,San Juan,Ophir
-"13,309'",393,3,Grizzly PeakGrizzly Peak E,Sawatch,Pieplant
-"13,698'",150,3,Wheeler Mountain,Tenmile,Copper Mountain
-"13,702'",146,3,"UN 13702Formerly UN 13,688 B",San Juan,Handies Peak
-"13,682'",158,3,Peak Seven,San Juan,Storm King Peak
-"13,669'",165,3,Lookout Peak,San Juan,Ophir
-"13,670'",164,3,"""Northwest Pole""Formerly UN 13,660 B",San Juan,Pole Creek Mountain
-"13,642'",174,3,"""Len Shoemaker Peak""Formerly UN13631 B",Elks,Maroon Bells
-"13,612'",188,3,Tijeras Peak,Sangre de Cristo,Crestone Peak
-"13,590'",195,3,Matterhorn Peak,San Juan,Uncompahgre Peak
-"13,592'",193,3,Mount Emma,San Juan,Telluride
-"13,579'",201,3,Clark Peak,Elks,Capitol Peak
-"13,555'",219,3,McCauley Peak,San Juan,Columbine Pass
-"13,559'",215,3,"UN 13559Previously UN 13,550",Elks,Gothic
-"13,543'",229,3,UN 13543,Sangre de Cristo,Crestone Peak
-"13,523'",242,3,White Rock Mountain,Elks,Gothic
-"13,530'",240,3,Peak Eleven,San Juan,Storm King Peak
-"13,552'",221,3,UN 13552Formerly UN13537,Elks,Maroon Bells
-"13,513'",247,3,North Arapaho Peak,Front,Monarch Lake
-"13,503'",257,3,Mears Peak,San Juan,Mount Sneffels
-"13,495'",261,3,Storm Peak,San Juan,Silverton
-"13,494'",264,3,Three Needles,San Juan,Telluride
-"13,480'",273,3,V 10,San Juan,Ophir
-"13,425'",305,3,"""Siberia Peak""Formerly UN 13420",Elks,Snowmass Mountain
-"13,419'",310,3,Eagles NestAKA: Peak A,Gore,Mount Powell
-"13,348'",360,3,Bartlett Mountain,Tenmile,Copper Mountain
-"13,391'",327,3,Prize Benchmark,Sawatch,Pieplant
-"13,390'",329,3,Williams Mountain,Sawatch,Mt. Champion
-"13,378'",340,3,Precarious Peak,Elks,Maroon Bells
-"13,365'",346,3,Music Mountain,Sangre de Cristo,Crestone Peak
-"13,352'",353,3,"""Finnegan Peak""Formerly UN 13346; also ""North Gold Dust""",Sawatch,Mount Jackson
-"13,330'",370,3,McHenrys Peak,Front,McHenrys Peak
-"13,313'",387,3,"""East Storm""Formerly UN 13325",San Juan,Silverton
-"13,315'",385,3,T 8,San Juan,Ironton
-"13,316'",384,3,"""Oyster Peak""Formerly UN 13312 B",Elks,Pearl Pass
-"13,288'",411,3,"""P 2""Formerly UN 13302",San Juan,Storm King Peak
-"13,266'",nr,3,"""Middle Point""Formerly UN13300",San Juan,Ophir
-"13,302'",403,3,"UN 13302Formerly UN 13300 E or ""V 8""",San Juan,Ophir
-"13,295'",406,3,"""The Citadel""Formerly UN 13294",Front,Loveland Pass
-"13,297'",405,3,Electric PeakElectric Peak B,San Juan,Storm King Peak
-"13,291'",408,3,Peak Five,San Juan,Storm King Peak
-"13,264'",431,3,"""Crestolita""Formerly UN13270",Sangre de Cristo,Crestone Peak
-"13,268'",429,3,The Heisspitz,San Juan,Storm King Peak
-"13,256'",436,3,S 4,San Juan,Mount Sneffels
-"13,246'",444,3,"""Fortress Peak""Formerly known as ""U 3""",San Juan,Wetterhorn Peak
-"13,248'",442,3,Belleview Mountain,Elks,Maroon Bells
-"13,220'",471,3,UN 13220Formerly UN 13222 A,San Juan,Uncompahgre Peak
-"13,234'",457,3,S 7,San Juan,Sams
-"13,237'",455,3,Lavender Peak,San Juan,La Plata
-"13,218'",472,3,"""Leaning South Peak""Formerly UN13203",Sangre de Cristo,Trinchera Peak
-"13,223'",467,3,UN 13223Formerly UN 13180 A,Elks,Maroon Bells
-"13,161'",518,3,Babcock Peak,San Juan,La Plata
-"13,173'",501,3,UN 13173Formerly UN 13162 B,Elks,Gothic
-"13,162'",517,3,Twilight Peak,San Juan,Snowdon Peak
-"13,166'",511,3,UN 13166Formerly UN 13155,San Juan,San Luis Peak
-"13,149'",528,3,"""West Truro""UN 13140 C",Sawatch,New York Peak
-"13,110'",562,3,Peak NPreviously UN 13121 B,Gore,Mount Powell
-"13,164'",516,3,UN 13164Formerly UN 13121 A,San Juan,Columbine Pass
-"13,094'",571,3,Paiute Peak,Front,Monarch Lake
-"13,089'",576,3,"""Ribbed Peak""Formerly UN 13085 A",Sawatch,Mount Jackson
-"13,090'",575,3,Snowdon Peak,San Juan,Snowdon Peak
-"13,087'",577,3,Mount Garfield,San Juan,Snowdon Peak
-"13,067'",593,3,UN 13067Formerly UN 13060 A,Elks,Capitol Peak
-"13,058'",604,3,"""West Partner Peak""Formerly UN 13041 A",Gore,Vail East
-"13,040'",612,3,Organ MountainOrgan Mountain B,San Juan,Columbine Pass
-"13,039'",613,3,"""Snow Peak""Formerly UN 13039",Gore,Willow Lakes
-"13,861'",82,3,Dyer Mountain,Mosquito,Mount Sherman
-"13,863'",nr,3,Mount Spalding,Front,Mount Evans
-"13,556'",218,3,"UN 13556 ""Independence Peak""Formerly UN 13,545",Sawatch,Mt. Champion
-"13,252'",440,3,Peak Eight,San Juan,Storm King Peak
-"13,002'",635,3,UN 13002Formerly UN 12977,Sawatch,Mount Jackson
-"13,816'",100,4,Trinity Peak,San Juan,Storm King Peak
-"13,729'",nr,4,"""Lightening Pyramid""Formerly UN 13,722 A",Elks,Maroon Bells
-"13,725'",nr,4,Peak Thirteen,San Juan,Storm King Peak
-"13,707'",143,4,Monitor Peak,San Juan,Storm King Peak
-"13,621'",184,4,Pico AisladoPico Asilado (commonly misspelled),Sangre de Cristo,Crestone Peak
-"13,545'",225,4,V 3,San Juan,Ophir
-"13,526'",nr,4,Milwaukee Peak,Sangre de Cristo,Crestone Peak
-"13,507'",252,4,Fowler PeakBig Bear Peak,San Juan,Dolores Peak
-"13,471'",279,4,UN 13471Previously UN 13462 A (G&M),Sawatch,Winfield
-"13,457'",287,4,Sleeping Sexton,Elks,Maroon Bells
-"13,494'",265,4,Peak Ten,San Juan,Storm King Peak
-"13,418'",312,4,"""Heisshorn""UN 13418",San Juan,Wetterhorn Peak
-"13,419'",311,4,Navajo Peak,Front,Monarch Lake
-"13,404'",320,4,Peak Nine,San Juan,Storm King Peak
-"13,420'",308,4,South Lookout Peak,San Juan,Ophir
-"13,302'",403,4,"UN 13302Formerly UN 13300 E or ""V 8""",San Juan,Ophir
-"13,319'",380,4,"""El Punto""Formerly UN 13300",San Juan,Uncompahgre Peak
-"13,306'",397,4,Peak GFormerly UN 13260,Gore,Vail East
-"13,239'",449,4,"Peak Q/""Prisoner Peak""Formerly UN13,230",Gore,Vail East
-"13,228'",460,4,Peak CFormerly UN 13220,Gore,Vail East
-"13,235'",456,4,"""Peak L""Formerly UN 13213 aka: ""Necklace Peak""",Gore,Vail East
-"13,164'",512,4,Amherst Mountain,San Juan,Columbine Pass
-"13,057'",605,4,"""East Partner Peak""Previously UN 13,057",Gore,Vail East
-"13,022'",624,4,UN 13022Formerly UN 13017,San Juan,Rio Grande Pyramid
-"13,915'",s,5,"""Drift Peak""Formerly UN 13,900",Tenmile,Copper Mountain
-"13,833'",94,5,Jagged Mountain,San Juan,Storm King Peak
-"13,815'",102,5,Teakettle Mountain,San Juan,Mount Sneffels
-"13,812'",104,5,Dallas Peak,San Juan,Telluride
-"13,671'",163,5,Peak Fifteen,San Juan,Snowden Peak
-"13,663'",166,5,Coxcomb Peak,San Juan,Wetterhorn Peak
-"13,112'",559,5,Lizard Head,San Juan,Mount Wilson
+Rank,Peak,Elevation,Prominence,County,Range,Isolation,Ascents
+1,Mount Elbert,"14,438",9078,Lake,Sawatch Range,670.6,2391
+2,Mount Harvard,"14,425",2351,Chaffee,Sawatch Range,14.9,602
+3,Mount Massive,"14,424",1980,Lake,Sawatch Range,5.1,867
+4,Blanca Peak,"14,350",5331,Alamosa/Costilla,Sangre de Cristo Range,103.4,509
+5,La Plata Peak,"14,343",1844,Chaffee,Sawatch Range,6.2,739
+,Mount Massive - Northwest Peak,"14,337",274,Lake,Sawatch Range,0.7,104
+6,Uncompahgre Peak,"14,315",4246,Hinsdale,San Juan Mountains,85,572
+,Mount Massive - Green Peak,"14,311",143,Lake,Sawatch Range,0.3,89
+7,Crestone Peak,"14,297",4579,Saguache,Sangre de Cristo Range,27.4,357
+8,Mount Lincoln,"14,292",3868,Park,Central Colorado Ranges,22.5,1220
+9,Grays Peak,"14,276",2784,Clear Creek/Summit,Front Range,25,1650
+10,Castle Peak,"14,274",2358,Gunnison/Pitkin,Elk Range Area,20.9,485
+11,Torreys Peak,"14,272",549,Clear Creek/Summit,Front Range,0.7,1494
+12,Mount Antero,"14,271",2497,Chaffee,Sawatch Range,17.7,522
+13,Quandary Peak,"14,270",1110,Summit,Central Colorado Ranges,3.2,1588
+14,Mount Blue Sky,"14,267",2751,Clear Creek,Front Range,9.8,1386
+15,Longs Peak,"14,257",2947,Boulder,Front Range,43.6,1203
+16,Mount Wilson,"14,255",4020,Dolores,San Juan Mountains,33,324
+,Mount Evans - West Peak,"14,253",117,Clear Creek,Front Range,0.3,207
+,Crestone Peak - Northeast Peak,"14,250",113,Custer/Saguache,Sangre de Cristo Range,0.1,26
+,Mount Cameron,"14,248",152,Park,Central Colorado Ranges,0.5,1059
+,Crestone Peak - East Peak,"14,240",40,Custer/Saguache,Sangre de Cristo Range,0.1,114
+17,Mount Shavano,"14,226",1610,Chaffee,Sawatch Range,3.8,739
+18,Mount Belford,"14,202",1329,Chaffee,Sawatch Range,3.3,747
+19,Mount Princeton,"14,200",2212,Chaffee,Sawatch Range,5.2,609
+19,Mount Yale,"14,200",1879,Chaffee,Sawatch Range,5.5,759
+21,Crestone Needle,"14,197",456,Custer/Saguache,Sangre de Cristo Range,0.4,357
+22,Mount Bross,"14,178",315,Park,Central Colorado Ranges,0.9,1107
+,El Diente,"14,175",264,Dolores,San Juan Mountains,0.7,263
+,Mount Massive - Far Northwest Peak,"14,169",9,Lake/Pitkin,Sawatch Range,0.3,54
+23,Kit Carson Mountain,"14,166",1030,Saguache,Sangre de Cristo Range,1.3,352
+24,Maroon Peak,"14,163",2328,Gunnison/Pitkin,Elk Range Area,8,300
+,Quandary Peak - West Peak,"14,160",40,Summit,Central Colorado Ranges,0.2,26
+,La Plata Peak - East Peak,"14,160",40,Chaffee,Sawatch Range,0.1,50
+25,Mount Oxford,"14,157",648,Chaffee,Sawatch Range,1.2,582
+25,Tabeguache Peak,"14,157",440,Chaffee,Sawatch Range,0.8,550
+27,Mount Sneffels,"14,155",3067,Ouray,San Juan Mountains,15.7,702
+28,Mount Democrat,"14,153",769,Lake/Park,Central Colorado Ranges,1.2,1273
+,Mount Massive - Southeast Peak,"14,152",250,Lake,Sawatch Range,0.4,97
+29,Capitol Peak,"14,138",1772,Pitkin,Elk Range Area,7.4,333
+,Mount Elbert - South Peak,"14,128",234,Lake,Sawatch Range,0.7,143
+30,Pikes Peak,"14,109",5525,El Paso,Front Range,60.6,1695
+31,Snowmass Mountain,"14,105",1180,Gunnison/Pitkin,Elk Range Area,2.3,273
+,Mount Wilson - South Peak,"14,104",163,Dolores,San Juan Mountains,0.3,14
+,Mount Wilson - West Peak,"14,098",108,Dolores,San Juan Mountains,0.3,79
+32,Windom Peak,"14,089",2166,La Plata,San Juan Mountains,26.3,316
+33,Mount Eolus,"14,087",1012,La Plata,San Juan Mountains,1.7,280
+,Challenger Point,"14,085",263,Saguache,Sangre de Cristo Range,0.2,367
+34,Mount Columbia,"14,074",912,Chaffee,Sawatch Range,1.6,481
+35,Missouri Mountain,"14,071",855,Chaffee,Sawatch Range,1.3,521
+36,Humboldt Peak,"14,068",1227,Custer,Sangre de Cristo Range,1.4,445
+37,Mount Bierstadt,"14,066",773,Clear Creek,Front Range,1,1591
+38,Sunlight Peak,"14,061",412,La Plata,San Juan Mountains,0.5,276
+,Longs Peak - Southeast Peak,"14,061",137,Boulder,Front Range,0.1,37
+39,Ellingwood Point,"14,057",374,Alamosa/Huerfano,Sangre de Cristo Range,0.5,358
+40,Handies Peak,"14,056",1919,Hinsdale,San Juan Mountains,11.1,642
+41,Mount Lindsey,"14,055",1534,Costilla,Sangre de Cristo Range,2.2,327
+42,Culebra Peak,"14,054",4814,Costilla,Sangre de Cristo Range,35.4,272
+43,Mount Sherman,"14,042",901,Lake/Park,Central Colorado Ranges,8.1,1116
+43,Little Bear Peak,"14,042",399,Alamosa/Costilla,Sangre de Cristo Range,0.9,269
+,North Eolus,"14,040",217,La Plata,San Juan Mountains,0.2,240
+45,Redcloud Peak,"14,037",1436,Hinsdale,San Juan Mountains,4.9,532
+,Conundrum Peak,"14,035",223,Pitkin,Elk Range Area,0.3,173
+,Conundrum Peak - North Peak,"14,032",67,Pitkin,Elk Range Area,0.4,292
+46,Pyramid Peak,"14,029",1649,Pitkin,Elk Range Area,2.1,289
+47,San Luis Peak,"14,022",3122,Saguache,San Juan Mountains,27,418
+47,Wetterhorn Peak,"14,022",1657,Hinsdale/Ouray,San Juan Mountains,2.7,434
+47,North Maroon Peak,"14,022",330,Pitkin,Elk Range Area,0.4,279
+50,Wilson Peak,"14,021",865,San Miguel,San Juan Mountains,1.4,340
+,Little Bear Peak - South Peak,"14,020",60,Alamosa/Costilla,Sangre de Cristo Range,0.2,24
+51,Huron Peak,"14,006",1425,Chaffee,Sawatch Range,3.2,692
+52,Mount of the Holy Cross,"14,005",2111,Eagle,Sawatch Range,18.4,574
+53,Sunshine Peak,"14,004",484,Hinsdale,San Juan Mountains,1.3,497
+,South Bross Peak,"14,000",40,Park,Central Colorado Ranges,0.3,87
+54,Grizzly Peak,"13,995",1911,Chaffee/Pitkin,Sawatch Range,6.5,124
+55,Stewart Peak,"13,988",880,Saguache,San Juan Mountains,2.5,89
+,Columbia Point,"13,984",299,Saguache,Sangre de Cristo Range,0.2,109
+56,Mount Ouray,"13,978",2672,Chaffee/Saguache,Sawatch Range,13.5,156
+57,Pigeon Peak,"13,971",1175,La Plata,San Juan Mountains,1.5,52
+,Sunlight Spire,"13,970",179,La Plata,San Juan Mountains,0.2,5
+58,Pacific Peak,"13,965",615,Summit,Central Colorado Ranges,1.4,179
+,Gemini Peak,"13,961",193,Lake/Park,Central Colorado Ranges,0.6,160
+59,Ice Mountain,"13,960",1012,Chaffee/Gunnison,Sawatch Range,2.1,90
+,Kitty Kat Carson,"13,960",40,Saguache,Sangre de Cristo Range,0.3,91
+60,Cathedral Peak,"13,950",530,Pitkin,Elk Range Area,1.3,69
+61,Thunder Pyramid,"13,943",336,Pitkin,Elk Range Area,0.6,50
+62,French Mountain,"13,941",1078,Lake,Sawatch Range,2,90
+62,Fletcher Mountain,"13,941",553,Summit,Central Colorado Ranges,1,179
+64,Mount Hope,"13,937",883,Chaffee,Sawatch Range,2.7,134
+65,Mount Adams,"13,936",877,Custer/Saguache,Sangre de Cristo Range,1.8,77
+66,Gladstone Peak,"13,922",713,Dolores/San Miguel,San Juan Mountains,0.5,70
+67,Horseshoe Mountain,"13,918",777,Lake/Park,Central Colorado Ranges,2.6,192
+68,Mount Meeker,"13,916",454,Boulder,Front Range,0.6,171
+69,Emerald Peak,"13,915",585,Chaffee,Sawatch Range,1.3,97
+,Drift Peak,"13,914",274,Summit,Central Colorado Ranges,0.6,74
+70,Red Mountain,"13,911",455,Costilla,Sangre de Cristo Range,0.7,125
+71,Vermilion Peak,"13,907",2115,San Juan/San Miguel,San Juan Mountains,9.1,121
+72,Casco Peak,"13,905",650,Lake,Sawatch Range,1.2,94
+73,Phoenix Peak,"13,904",1519,Mineral/Saguache,San Juan Mountains,4.9,88
+,Frasco Peak,"13,877",274,Lake,Sawatch Range,0.5,78
+74,Cronin Peak,"13,872",1057,Chaffee,Sawatch Range,2.3,108
+75,Mount Buckskin,"13,870",711,Park,Central Colorado Ranges,1.4,44
+76,North Apostle,"13,867",395,Chaffee/Gunnison,Sawatch Range,0.4,90
+77,Vestal Peak,"13,866",1126,San Juan,San Juan Mountains,4.3,83
+78,Half Peak,"13,865",1516,Hinsdale,San Juan Mountains,3.8,70
+78,Jones Mountain,"13,865",524,Hinsdale/San Juan,San Juan Mountains,1.6,76
+,Mount Buckskin - Southeast Peak,"13,865",65,Lake/Park,Central Colorado Ranges,0.3,134
+80,Clinton Peak,"13,864",504,Lake/Park,Central Colorado Ranges,1.9,124
+81,Mount Edwards,"13,860",444,Clear Creek/Summit,Front Range,1.1,204
+82,Dyer Mountain,"13,859",460,Lake/Park,Central Colorado Ranges,0.8,161
+,Mount Spalding,"13,859",256,Clear Creek,Front Range,0.6,379
+83,Crystal Peak,"13,858",650,Summit,Central Colorado Ranges,0.9,212
+84,Atlantic Peak,"13,855",420,Summit,Central Colorado Ranges,0.7,197
+,Traver Peak,"13,855",244,Lake/Park,Central Colorado Ranges,0.7,98
+85,California Peak,"13,853",626,Alamosa/Huerfano,Sangre de Cristo Range,2.2,94
+86,Holy Cross Ridge,"13,848",356,Eagle,Sawatch Range,0.6,187
+87,Hagerman Peak,"13,847",347,Gunnison/Pitkin,Elk Range Area,0.5,55
+88,Mount Oklahoma,"13,841",763,Lake/Pitkin,Sawatch Range,1.1,100
+,Iowa Peak,"13,839",288,Chaffee,Sawatch Range,0.5,92
+89,Redcloud Peak - Northeast Peak,"13,837",818,Hinsdale,San Juan Mountains,1.3,79
+89,Turret Peak,"13,837",760,La Plata,San Juan Mountains,0.5,52
+91,Huerfano Peak,"13,836",703,Costilla/Huerfano,Sangre de Cristo Range,1,100
+91,Jupiter Mountain,"13,836",380,La Plata,San Juan Mountains,0.6,60
+93,Jagged Mountain,"13,830",969,San Juan,San Juan Mountains,1.4,41
+94,Mount Silverheels,"13,828",2297,Park,Front Range,5.2,188
+95,Lackawanna Peak,"13,826",887,Lake,Sawatch Range,1.7,89
+96,Rio Grande Pyramid,"13,824",1911,Hinsdale,San Juan Mountains,10.8,60
+97,Redcloud Peak - Far Northeast Peak,"13,819",553,Hinsdale,San Juan Mountains,1.2,78
+98,Arrow Peak,"13,816",942,San Juan,San Juan Mountains,0.5,66
+99,Teakettle Mountain,"13,815",770,Ouray,San Juan Mountains,1.6,66
+99,Niagara Peak,"13,815",571,Hinsdale/San Juan,San Juan Mountains,0.6,63
+101,Trinity Peaks,"13,814",932,San Juan,San Juan Mountains,1.2,37
+102,American Peak,"13,813",471,Hinsdale,San Juan Mountains,0.8,54
+103,Dallas Peak,"13,811",887,Ouray/San Miguel,San Juan Mountains,2,59
+103,Obstruction Peak,"13,811",339,Saguache,Sangre de Cristo Range,0.5,80
+,Mount Antero - South Peak,"13,807",114,Chaffee,Sawatch Range,0.5,42
+105,Organ Mountain,"13,806",694,Saguache,San Juan Mountains,1.9,42
+106,Castle Peak - West Peak,"13,803",415,Gunnison/Pitkin,Elk Range Area,0.7,32
+107,Mount Arkansas,"13,802",564,Lake,Central Colorado Ranges,1.9,74
+,The Sawtooth,"13,802",130,Clear Creek,Front Range,0.4,169
+108,Rito Alto Peak,"13,800",1127,Custer/Saguache,Sangre de Cristo Range,7.3,33
+108,Handies Peak - ESE Peak,"13,800",462,Hinsdale,San Juan Mountains,1.2,32
+,Column Ridge,"13,798",239,Saguache,San Juan Mountains,0.6,13
+110,Square Top Mountain,"13,797",827,Clear Creek,Front Range,3.4,201
+111,Potosi Peak,"13,792",802,Ouray,San Juan Mountains,1,32
+112,Animas Mountain,"13,787",1082,San Juan,San Juan Mountains,1.2,20
+112,Rinker Peak,"13,787",941,Chaffee,Sawatch Range,1.4,32
+112,Mosquito Peak,"13,787",567,Lake/Park,Central Colorado Ranges,2.2,80
+115,Golden Horn,"13,786",411,San Juan/San Miguel,San Juan Mountains,0.4,55
+115,Holy Cross Ridge - Middle Peak,"13,786",388,Eagle,Sawatch Range,0.8,45
+117,Peak 13762,"13,779",820,Chaffee/Gunnison,Sawatch Range,1.6,16
+118,U S Grant Peak,"13,777",733,San Juan/San Miguel,San Juan Mountains,2.1,45
+119,Garfield Peak,"13,776",342,Chaffee/Pitkin,Sawatch Range,0.8,55
+,Fuller Peak,"13,776",261,San Juan,San Juan Mountains,0.4,63
+120,Trinity Peaks - West Peak,"13,764",397,San Juan,San Juan Mountains,0.4,39
+121,Deer Mountain,"13,762",957,Lake/Pitkin,Sawatch Range,1.6,41
+,McNamee Peak,"13,760",40,Lake/Park,Central Colorado Ranges,0.4,97
+122,Bull Hill,"13,757",420,Lake,Sawatch Range,0.8,66
+123,San Miguel Peak,"13,756",1314,Dolores/San Miguel,San Juan Mountains,2.4,29
+123,Mount Sheridan,"13,756",595,Lake/Park,Central Colorado Ranges,1.1,245
+125,Grizzly Peak,"13,753",819,Dolores/San Juan,San Juan Mountains,1.6,21
+126,Storm King Peak,"13,752",632,San Juan,San Juan Mountains,1.3,22
+127,Trinity Peaks - East Peak,"13,751",394,San Juan,San Juan Mountains,0.2,35
+,West Dallas,"13,751",248,Ouray/San Miguel,San Juan Mountains,0.6,5
+,Ptarmigan Peak,"13,748",260,Lake/Park,Central Colorado Ranges,2.2,39
+,South Windom,"13,747",116,La Plata,San Juan Mountains,0.2,4
+128,Mount Aetna,"13,745",1229,Chaffee,Sawatch Range,4.2,51
+128,Sayres Benchmark,"13,745",967,Chaffee,Sawatch Range,1.3,35
+128,Pilot Knob,"13,745",410,San Juan/San Miguel,San Juan Mountains,0.5,26
+131,Argentine Peak,"13,742",618,Clear Creek/Summit,Front Range,1.5,133
+132,Peak 13722,"13,739",1077,San Juan,San Juan Mountains,3.4,26
+132,T 0,"13,739",399,Ouray/San Miguel,San Juan Mountains,0.8,17
+134,Peak 13736,"13,735",656,Lake,Sawatch Range,1.2,42
+,Pyramid Peak - Far South Peak,"13,728",282,Pitkin,Elk Range Area,0.4,19
+,West Eolus,"13,725",293,La Plata,San Juan Mountains,0.2,3
+,Peak Thirteen,"13,724",248,San Juan,San Juan Mountains,0.3,14
+,La Garita Peak,"13,724",242,Mineral,San Juan Mountains,1,20
+135,Grizzly Mountain,"13,722",554,Chaffee,Sawatch Range,1.6,39
+136,Pole Creek Mountain,"13,721",1524,Hinsdale,San Juan Mountains,5,17
+136,Twining Peak,"13,721",1284,Lake/Pitkin,Sawatch Range,2.2,61
+138,Vermejo Peak,"13,715",754,Costilla,Sangre de Cristo Range,1.3,18
+,Wood Benchmark,"13,715",294,Hinsdale/San Juan,San Juan Mountains,0.5,18
+139,Silver Mountain,"13,712",1075,Hinsdale,San Juan Mountains,2.5,15
+140,Peak Six,"13,711",679,San Juan,San Juan Mountains,1,20
+141,Jones Peak West,"13,710",320,Chaffee,Sawatch Range,0.5,42
+,Glacier Point,"13,709",268,La Plata,San Juan Mountains,0.2,18
+142,Monitor Peak,"13,706",336,La Plata,San Juan Mountains,0.2,19
+,Treasurevault Mountain,"13,706",280,Lake/Park,Central Colorado Ranges,0.4,66
+,Loveland Mountain,"13,706",182,Park,Central Colorado Ranges,0.6,51
+143,Baldy Alto,"13,703",535,Saguache,San Juan Mountains,1.1,52
+144,Peak 13688,"13,702",348,Hinsdale,San Juan Mountains,0.7,13
+,Kismet,"13,702",222,Ouray,San Juan Mountains,0.4,8
+145,Bald Mountain,"13,701",2113,Summit,Front Range,7.3,109
+146,Gilpin Peak,"13,698",721,Ouray/San Miguel,San Juan Mountains,1.1,25
+146,Every Mountain,"13,698",483,Hinsdale,San Juan Mountains,2.4,21
+,White Ridge,"13,698",189,Park,Central Colorado Ranges,0.9,28
+148,Rolling Mountain,"13,697",931,San Juan,San Juan Mountains,2.1,24
+148,Wheeler Mountain,"13,697",316,Lake/Park/Summit,Central Colorado Ranges,0.9,62
+150,Grizzly Peak,"13,695",416,La Plata,San Juan Mountains,0.6,15
+151,Cooper Creek Peak,"13,694",406,Hinsdale,San Juan Mountains,1.1,23
+152,Colony Baldy,"13,691",921,Custer,Sangre de Cristo Range,1.3,25
+152,Cirque Mountain,"13,691",559,Ouray,San Juan Mountains,0.6,30
+,Bald Mountain - South Peak,"13,691",151,Park,Front Range,0.5,25
+154,Mount Oso,"13,688",1680,La Plata,San Juan Mountains,5.4,20
+155,Peak 13681,"13,684",543,Hinsdale,San Juan Mountains,1,13
+156,Mount Tweto,"13,682",428,Lake/Park,Central Colorado Ranges,0.9,72
+157,Peak Seven,"13,681",404,San Juan,San Juan Mountains,0.8,18
+,Wood Mountain,"13,681",295,Hinsdale/San Juan,San Juan Mountains,0.5,28
+158,Purgatoire Peak,"13,679",870,Costilla,Sangre de Cristo Range,1.8,18
+158,Quarter Peak,"13,679",699,Hinsdale,San Juan Mountains,1.2,21
+160,Mount Jackson,"13,675",1811,Eagle,Sawatch Range,3.1,21
+161,Mount Mamma,"13,672",525,Chaffee,Sawatch Range,1.7,30
+162,Lookout Peak,"13,668",841,San Juan/San Miguel,San Juan Mountains,3,36
+162,Peak Fifteen,"13,668",347,La Plata,San Juan Mountains,0.2,12
+,K2 (Colorado),"13,664",64,Pitkin,Elk Range Area,0.3,122
+164,Coxcomb Peak,"13,663",764,Hinsdale/Ouray,San Juan Mountains,1.8,41
+165,Carbonate Mountain,"13,662",429,Chaffee,Sawatch Range,1.2,39
+166,Carson Peak,"13,661",1221,Hinsdale,San Juan Mountains,3.5,23
+166,Northwest Pole,"13,661",816,Hinsdale,San Juan Mountains,1.5,15
+168,Mount White,"13,656",824,Chaffee,Sawatch Range,0.8,46
+168,Peak 13640,"13,656",398,Huerfano,Sangre de Cristo Range,0.8,12
+,Hamilton Peak,"13,656",277,Costilla,Sangre de Cristo Range,0.8,4
+,Peak 13640,"13,654",154,Alamosa/Huerfano,Sangre de Cristo Range,1,27
+170,Taylor Mountain,"13,652",616,Chaffee,Sawatch Range,1.2,42
+171,Redcliff,"13,647",514,Hinsdale,San Juan Mountains,0.5,39
+172,Mount Champion,"13,644",311,Lake,Sawatch Range,0.6,46
+,Peak 13640,"13,642",242,Lake,Sawatch Range,0.7,37
+173,Hill 10 Benchmark,"13,641",384,Summit,Central Colorado Ranges,0.8,142
+173,Peak 13631,"13,641",320,Pitkin,Elk Range Area,0.7,20
+,Father Dyer Peak,"13,641",115,Summit,Central Colorado Ranges,0.5,117
+,Mount Bierstadt - Southeast Peak,"13,641",81,Clear Creek,Front Range,0.3,28
+175,Bard Peak,"13,640",1694,Clear Creek,Front Range,5.3,102
+,The Index,"13,640",80,San Juan,San Juan Mountains,0.1,0
+,South South Massive,"13,636",262,Lake,Sawatch Range,0.6,19
+176,Anderson Peak,"13,635",946,Gunnison/Pitkin,Sawatch Range,2.2,14
+176,Mount Silex,"13,635",813,San Juan,San Juan Mountains,0.8,16
+178,Electric Pass Peak,"13,631",329,Pitkin,Elk Range Area,0.8,38
+179,White Dome,"13,627",977,San Juan,San Juan Mountains,2,22
+179,Peak 13626,"13,627",464,Chaffee,Sawatch Range,0.9,19
+,Esprit Point,"13,625",235,Chaffee,Sawatch Range,0.6,31
+181,Mount Blaurock,"13,624",451,Chaffee,Sawatch Range,0.9,25
+182,The Guardian,"13,623",571,San Juan,San Juan Mountains,0.6,15
+183,Pico Aislado,"13,620",883,Saguache,Sangre de Cristo Range,1.6,20
+,T 12,"13,620",187,San Juan/San Miguel,San Juan Mountains,0.4,4
+184,Electric Peak,"13,617",960,Custer/Saguache,Sangre de Cristo Range,6,19
+,Noname Needle,"13,617",168,San Juan,San Juan Mountains,0.2,0
+185,Cyclone Mountain,"13,616",348,Chaffee,Sawatch Range,0.6,39
+186,North Star Mountain,"13,614",409,Park/Summit,Central Colorado Ranges,0.8,106
+187,Tijeras Peak,"13,611",749,Saguache,Sangre de Cristo Range,1.7,29
+,North Crown Mountain,"13,610",293,San Juan,San Juan Mountains,0.5,9
+,Jones Peak,"13,607",149,Chaffee,Sawatch Range,0.7,23
+188,Gray Wolf Mountain,"13,605",568,Clear Creek,Front Range,1.1,105
+,Snowmass Peak,"13,600",80,Gunnison/Pitkin,Elk Range Area,0.1,10
+,Peak 13588,"13,599",109,Hinsdale,San Juan Mountains,0.4,9
+189,Peak One,"13,597",396,San Juan,San Juan Mountains,0.7,24
+,Lo Carb,"13,597",243,Chaffee,Sawatch Range,0.6,27
+190,Cottonwood Peak,"13,596",1127,Custer/Saguache,Sangre de Cristo Range,3.7,27
+,Gravel Mountain,"13,595",146,Hinsdale,San Juan Mountains,0.4,10
+191,West Apostle,"13,593",544,Chaffee/Gunnison,Sawatch Range,0.4,29
+192,Mount Emma,"13,591",559,San Miguel,San Juan Mountains,0.8,23
+193,Mount Evans,"13,588",342,Lake/Park,Central Colorado Ranges,1,53
+,Mount Cosgriff,"13,588",28,Lake,Sawatch Range,0.4,54
+194,Peak 13581,"13,587",675,Hinsdale,San Juan Mountains,1.5,14
+,McClellan Mountain,"13,587",147,Clear Creek,Front Range,0.6,59
+195,Matterhorn Peak,"13,586",541,Hinsdale,San Juan Mountains,0.8,93
+196,Twin Peaks,"13,584",656,Alamosa,Sangre de Cristo Range,1.2,30
+,Weston Peak,"13,584",271,Park,Central Colorado Ranges,1,30
+197,West Spanish Peak,"13,583",3623,Huerfano/Las Animas,Sangre de Cristo Range,19.9,198
+198,Mount Parnassus,"13,578",533,Clear Creek,Front Range,0.9,172
+199,Gibbs Peak,"13,577",713,Custer,Sangre de Cristo Range,2.6,15
+199,Rosalie Peak,"13,577",641,Park,Front Range,2.3,110
+199,Peak 13577,"13,577",314,Alamosa/Huerfano,Sangre de Cristo Range,0.4,33
+202,Chiefs Head Peak,"13,576",696,Boulder,Front Range,1.2,39
+203,Fluted Peak,"13,575",729,Custer/Saguache,Sangre de Cristo Range,1.1,24
+204,Broken Hand Peak,"13,574",648,Custer/Saguache,Sangre de Cristo Range,0.7,29
+204,Peak 13520,"13,574",525,Dolores/San Miguel,San Juan Mountains,0.8,20
+204,Clark Peak,"13,574",419,Pitkin,Elk Range Area,0.8,13
+207,Peak 13560,"13,573",378,Hinsdale,San Juan Mountains,1.2,15
+208,Gudy Peak,"13,572",715,Hinsdale,San Juan Mountains,1.9,18
+209,Greylock Mountain,"13,571",543,La Plata,San Juan Mountains,0.9,9
+210,Peak 13565,"13,569",568,Costilla,Sangre de Cristo Range,1,18
+,Hayden Peak,"13,569",180,Pitkin,Elk Range Area,0.8,9
+,Crown Mountain,"13,569",49,Hinsdale/San Juan,San Juan Mountains,0.2,9
+,Peak 13560,"13,568",250,Chaffee/Gunnison,Sawatch Range,0.6,7
+211,Hagues Peak,"13,565",2405,Larimer,Front Range,15.7,84
+,Repeater Peak,"13,560",275,Park,Central Colorado Ranges,0.6,50
+212,Wasatch Mountain,"13,559",495,San Miguel,San Juan Mountains,1.7,30
+213,Pettingell Peak,"13,558",1567,Clear Creek/Grand,Front Range,4.4,185
+213,Peak 13550,"13,558",524,Gunnison/Pitkin,Elk Range Area,0.8,10
+215,Huerfana Peak,"13,556",302,Huerfano,Sangre de Cristo Range,0.8,14
+216,Mount Powell,"13,555",2963,Eagle/Summit,Central Colorado Ranges,21.5,70
+217,Peak 13545,"13,554",307,Lake/Pitkin,Sawatch Range,0.7,18
+218,Peak 13546,"13,552",665,Saguache,Sangre de Cristo Range,0.7,23
+218,Whitecross Mountain,"13,552",572,Hinsdale,San Juan Mountains,1.1,45
+218,McCauley Peak,"13,552",455,La Plata,San Juan Mountains,0.7,10
+221,Peak 13537,"13,551",776,Pitkin,Elk Range Area,2,9
+,Block Tops,"13,551",211,Ouray/San Miguel,San Juan Mountains,0.4,2
+222,Peak 13535,"13,548",509,Hinsdale/San Juan,San Juan Mountains,1.3,17
+223,Tower Mountain,"13,544",1620,San Juan,San Juan Mountains,4.9,28
+223,Peak 13520,"13,544",541,Hinsdale,San Juan Mountains,2.1,16
+225,Emma Burr Mountain,"13,543",1240,Chaffee/Gunnison,Sawatch Range,6.8,27
+225,Peak 13560,"13,543",390,Custer/Saguache,Sangre de Cristo Range,0.5,26
+227,V 3,"13,542",397,San Miguel,San Juan Mountains,0.4,12
+227,Peak 13541,"13,542",334,Custer/Saguache,Sangre de Cristo Range,0.7,13
+229,K 49,"13,541",580,Lake,Sawatch Range,1.1,22
+229,Peak 13480,"13,541",410,Lake/Pitkin,Sawatch Range,0.8,54
+231,Cataract Peak,"13,540",465,Hinsdale,San Juan Mountains,1.4,14
+232,V 4,"13,539",324,San Juan,San Juan Mountains,0.3,23
+233,Epaulie,"13,537",371,Park,Front Range,1.1,72
+234,Ervin Peak,"13,536",429,Chaffee,Sawatch Range,0.8,23
+235,Treasure Mountain,"13,534",2821,Gunnison,Elk Range Area,6.9,23
+,Twin Peaks South Peak,"13,534",94,Alamosa,Sangre de Cristo Range,0.2,16
+,Peak 13517,"13,533",284,Custer/Saguache,Sangre de Cristo Range,0.3,9
+236,Leviathan Peak,"13,531",589,San Juan,San Juan Mountains,0.7,17
+236,Keefe Peak,"13,531",496,Pitkin,Elk Range Area,1.3,9
+238,Boulder Mountain,"13,529",573,Chaffee,Sawatch Range,1.5,29
+239,Star Peak,"13,526",816,Gunnison,Elk Range Area,3.6,12
+,Browns Peak,"13,526",170,Chaffee,Sawatch Range,0.6,78
+240,Peak Eleven,"13,525",334,La Plata,San Juan Mountains,0.5,12
+,Milwaukee Peak,"13,525",296,Saguache,Sangre de Cristo Range,0.5,22
+,Weston Pass Peak,"13,525",45,Lake/Park,Central Colorado Ranges,0.3,14
+241,Trinchera Peak,"13,522",962,Costilla/Huerfano,Sangre de Cristo Range,10.3,31
+241,White Rock Mountain,"13,522",735,Gunnison,Elk Range Area,2.5,11
+,Epaulet Mountain,"13,521",178,Clear Creek,Front Range,0.5,69
+,Coffeepot,"13,520",222,Ouray,San Juan Mountains,0.3,22
+243,Silver Peak,"13,515",463,Custer/Saguache,Sangre de Cristo Range,1.1,14
+244,T 11,"13,514",455,San Juan/San Miguel,San Juan Mountains,1.1,19
+245,North Arapaho Peak,"13,513",1667,Boulder/Grand,Front Range,15.4,117
+246,Telluride Peak,"13,512",601,Ouray/San Miguel,San Juan Mountains,0.5,37
+247,Ypsilon Mountain,"13,511",1160,Larimer,Front Range,2.6,152
+247,Petroleum Peak,"13,511",544,Gunnison/Pitkin,Sawatch Range,1.3,12
+249,Peak 13517,"13,510",446,Chaffee/Gunnison,Sawatch Range,0.9,9
+,Peak 13510,"13,509",271,Ouray/San Miguel,San Juan Mountains,3.7,23
+250,Peak 13510,"13,505",1570,Hinsdale,San Juan Mountains,7.5,16
+250,Fairchild Mountain,"13,505",935,Larimer,Front Range,1.2,57
+252,Hunter Peak,"13,504",485,Pitkin,Elk Range Area,1.4,7
+252,Mount Marcy,"13,504",412,Custer/Saguache,Sangre de Cristo Range,1.2,12
+,Cirque Mountain - West Peak,"13,504",112,Ouray,San Juan Mountains,0.3,6
+254,Eureka Mountain,"13,503",817,Custer/Saguache,Sangre de Cristo Range,1.8,23
+255,Mears Peak,"13,502",538,Ouray,San Juan Mountains,1.3,9
+255,Graystone Peak,"13,502",501,San Juan,San Juan Mountains,0.5,11
+257,Fowler Peak,"13,501",340,Dolores/San Miguel,San Juan Mountains,0.5,12
+,Iron Nipple,"13,501",205,Costilla/Huerfano,Sangre de Cristo Range,0.3,72
+258,Whitehouse Mountain,"13,499",599,Ouray,San Juan Mountains,1.8,18
+259,Storm Peak,"13,494",619,San Juan,San Juan Mountains,1.3,17
+259,Peak of the Clouds,"13,494",594,Custer/Saguache,Sangre de Cristo Range,1,21
+261,Chipeta Mountain,"13,493",1198,Chaffee,Sawatch Range,1.7,24
+261,Peak 13490,"13,493",963,Saguache,Sangre de Cristo Range,1,9
+261,Three Needles,"13,493",427,San Juan/San Miguel,San Juan Mountains,1,17
+264,Cuatro Peak,"13,492",692,Costilla/Las Animas,Sangre de Cristo Range,2.2,12
+265,Pagoda Mountain,"13,488",412,Boulder,Front Range,0.4,44
+266,Canby Mountain,"13,485",945,San Juan,San Juan Mountains,5.4,23
+266,Peak Three,"13,485",518,San Juan,San Juan Mountains,0.8,14
+266,Peak Ten,"13,485",313,San Juan,San Juan Mountains,0.2,5
+,Lake Point,"13,485",110,Dolores/San Miguel,San Juan Mountains,0.5,1
+269,T 10,"13,483",541,San Juan/San Miguel,San Juan Mountains,0.6,23
+269,Peak 13472,"13,483",313,Chaffee,Sawatch Range,0.4,9
+,Needle Ridge,"13,483",171,La Plata,San Juan Mountains,0.2,0
+271,Mount Ridgway,"13,480",441,Ouray,San Juan Mountains,0.9,16
+,Red Mountain,"13,480",80,Chaffee/Pitkin,Sawatch Range,0.3,10
+272,V 10,"13,479",420,Dolores/San Juan,San Juan Mountains,0.5,5
+273,La Junta Peak,"13,475",640,San Miguel,San Juan Mountains,0.7,28
+274,Peak Two,"13,474",560,San Juan,San Juan Mountains,0.8,11
+274,Peak 13474,"13,474",74,San Miguel,San Juan Mountains,0.6,10
+,Miranda Peak,"13,473",288,Costilla,Sangre de Cristo Range,0.8,12
+,Peak Eighteen,"13,473",230,La Plata,San Juan Mountains,0.3,7
+276,Silver Mountain,"13,472",337,San Miguel,San Juan Mountains,2.1,15
+277,Alamosito,"13,470",564,Costilla,Sangre de Cristo Range,0.8,14
+277,Peak 13462,"13,470",306,Chaffee,Sawatch Range,0.5,51
+279,Treasury Mountain,"13,469",510,Gunnison,Elk Range Area,1.4,23
+,East Windom,"13,467",295,La Plata,San Juan Mountains,0.6,4
+280,Ute Ridge,"13,466",972,Hinsdale,San Juan Mountains,4.1,9
+281,Quail Mountain,"13,465",935,Chaffee,Sawatch Range,1.1,70
+,Big Blue Peak,"13,463",284,Hinsdale,San Juan Mountains,0.8,4
+282,Hanson Peak,"13,462",920,San Juan,San Juan Mountains,3.5,16
+283,Campbell Creek Peak,"13,460",371,Hinsdale,San Juan Mountains,1,13
+284,Peak 13462,"13,459",553,Chaffee/Gunnison,Sawatch Range,1.5,7
+285,Peak 13447,"13,457",548,Chaffee/Pitkin,Sawatch Range,1.3,10
+,Hurricane Peak,"13,457",250,San Juan,San Juan Mountains,0.8,11
+286,Sleeping Sexton,"13,456",420,Pitkin,Elk Range Area,0.4,8
+287,Kendall Peak,"13,454",1147,San Juan,San Juan Mountains,4.1,21
+287,Horn Peak,"13,454",747,Custer,Sangre de Cristo Range,1.3,32
+289,S 6,"13,453",378,Ouray/San Miguel,San Juan Mountains,0.8,8
+290,Tundra Top,"13,452",346,Hinsdale,San Juan Mountains,0.6,13
+291,Apache Peak,"13,449",1083,Boulder/Grand,Front Range,2.2,40
+,San Joaquin Ridge,"13,449",206,San Miguel,San Juan Mountains,1,14
+292,Peak 13433,"13,443",400,Eagle,Sawatch Range,0.5,10
+,Punta Serpiente,"13,443",218,Costilla,Sangre de Cristo Range,0.5,27
+293,Twin Sisters,"13,440",1342,San Juan,San Juan Mountains,2.1,14
+293,Peak 13434,"13,440",502,San Juan,San Juan Mountains,1.2,20
+,South Twin Thumbs,"13,440",114,La Plata,San Juan Mountains,0.1,0
+,North Twin Thumbs,"13,440",114,La Plata,San Juan Mountains,0.2,0
+295,Jenkins Mountain,"13,439",675,Gunnison,Sawatch Range,3.6,9
+295,Peak 13440,"13,439",417,Chaffee,Sawatch Range,1.5,7
+297,Taylor Peak,"13,438",817,Gunnison/Pitkin,Elk Range Area,1.2,11
+297,Vallecito Mountain,"13,438",572,San Juan,San Juan Mountains,0.5,8
+299,T 5,"13,436",431,Ouray/San Miguel,San Juan Mountains,1.8,14
+299,Mount Yale - South Peak,"13,436",372,Chaffee,Sawatch Range,0.5,28
+299,Sundog,"13,436",352,Hinsdale,San Juan Mountains,0.8,42
+302,Spread Eagle Peak,"13,435",442,Custer,Sangre de Cristo Range,0.9,22
+303,Grizzly Peak,"13,434",830,Clear Creek/Summit,Front Range,1.1,281
+,Peak 13432,"13,433",275,San Miguel,San Juan Mountains,0.8,22
+,Gray Needle,"13,430",110,San Juan,San Juan Mountains,0.1,0
+304,Siberia Peak,"13,424",728,Pitkin,Elk Range Area,1.1,5
+,Peak 13405,"13,423",234,Chaffee,Sawatch Range,0.6,8
+,Spencer Peak,"13,423",157,San Juan,San Juan Mountains,0.6,9
+305,Mummy Mountain,"13,422",494,Larimer,Front Range,1.3,60
+306,South Lookout Peak,"13,421",555,San Juan/San Miguel,San Juan Mountains,0,14
+306,Hilliard Peak,"13,421",310,Pitkin,Elk Range Area,0.6,7
+308,Mount Soso,"13,420",662,La Plata,San Juan Mountains,0.8,7
+,S 3,"13,420",294,Ouray,San Juan Mountains,0.5,4
+309,Heisshorn,"13,418",463,Hinsdale,San Juan Mountains,1.1,12
+309,Navajo Peak,"13,418",315,Boulder/Grand,Front Range,0.4,52
+311,Eagles Nest,"13,417",664,Summit,Central Colorado Ranges,1.2,18
+,Mount Rhoda,"13,417",296,San Juan,San Juan Mountains,0.4,23
+,Baldy Chato,"13,417",192,Saguache,San Juan Mountains,1.2,23
+312,Little Giant Peak,"13,416",589,San Juan,San Juan Mountains,1.2,13
+,Finnback Knob,"13,416",125,Lake,Central Colorado Ranges,0.3,17
+313,Peak Four,"13,414",493,San Juan,San Juan Mountains,1.2,8
+,Peak Sixteen,"13,413",148,La Plata,San Juan Mountains,0.1,6
+314,Mount Wilcox,"13,412",542,Clear Creek,Front Range,1,76
+315,White Benchmark,"13,410",374,Gunnison,Elk Range Area,0.5,8
+316,Peak 13402,"13,408",424,Saguache,San Juan Mountains,1.7,7
+,South Arapaho Peak,"13,406",125,Boulder,Front Range,0.4,213
+317,Peak Nine,"13,404",576,San Juan,San Juan Mountains,0.4,11
+317,Triangle Peak,"13,404",492,Gunnison,Elk Range Area,1.2,6
+319,Cleveland Peak,"13,403",450,Saguache,Sangre de Cristo Range,1.4,7
+319,Bent Peak,"13,403",395,Hinsdale,San Juan Mountains,0.8,24
+321,Peak 13427,"13,402",380,Hinsdale,San Juan Mountains,0.8,13
+,Peak 13401,"13,402",296,Saguache,Sangre de Cristo Range,0.5,7
+322,Gold Dust Peak,"13,398",914,Eagle,Sawatch Range,3,11
+322,Mariquita Peak,"13,398",398,Las Animas,Sangre de Cristo Range,1.4,16
+,North Lookout Peak,"13,397",162,San Juan/San Miguel,San Juan Mountains,0.1,2
+324,De Anza Peak,"13,391",650,Custer/Saguache,Sangre de Cristo Range,1.1,14
+324,Prize Benchmark,"13,391",584,Gunnison/Pitkin,Sawatch Range,1,8
+324,Chicago Peak,"13,391",340,Ouray/San Miguel,San Juan Mountains,1.3,15
+327,Baldy Cinco,"13,389",834,Hinsdale,San Juan Mountains,1.9,22
+327,Peak 13384,"13,389",394,Saguache,Sangre de Cristo Range,0.9,7
+329,Williams Mountains High Point,"13,388",1685,Pitkin,Sawatch Range,3.7,10
+,Rowe Peak,"13,388",186,Larimer,Front Range,0.4,15
+330,Italian Mountain,"13,385",1357,Gunnison,Elk Range Area,3.4,9
+331,Lakes Peak,"13,384",691,Custer/Saguache,Sangre de Cristo Range,1.5,16
+331,Peak 13374,"13,384",388,Chaffee,Sawatch Range,1.4,15
+333,Twin Sisters West,"13,382",405,San Juan,San Juan Mountains,0.4,11
+,East Pole Creek Mountain,"13,382",264,Hinsdale,San Juan Mountains,0.8,2
+334,Geissler Mountain East,"13,380",574,Pitkin,Sawatch Range,0.8,31
+335,Pearl Mountain,"13,379",605,Gunnison/Pitkin,Elk Range Area,1.8,17
+,Peak 13377,"13,379",298,Hinsdale,San Juan Mountains,0.5,13
+336,Buckskin Benchmark,"13,378",913,Pitkin,Elk Range Area,1.9,14
+336,Dome Mountain,"13,378",655,San Juan,San Juan Mountains,1.2,11
+338,Precarious Peak,"13,376",656,Gunnison/Pitkin,Elk Range Area,2.1,6
+339,Sultan Mountain,"13,374",1861,San Juan,San Juan Mountains,4.5,44
+339,Monumental Peak,"13,374",1239,Chaffee/Gunnison,Sawatch Range,1.9,17
+341,Mount Guyot,"13,373",1318,Park/Summit,Front Range,1.9,97
+,Peak 13373,"13,373",93,Eagle,Sawatch Range,0.8,92
+,S 5,"13,370",207,Ouray,San Juan Mountains,0.2,6
+342,Engelmann Peak,"13,369",571,Clear Creek,Front Range,1.6,62
+343,Parry Peak,"13,366",1705,Clear Creek/Grand,Front Range,9.4,108
+344,Music Mountain,"13,364",417,Saguache,Sangre de Cristo Range,0.7,20
+345,Hoosier Ridge,"13,362",944,Park/Summit,Front Range,3,74
+346,Mount Silverthorne,"13,361",1093,Summit,Central Colorado Ranges,10.8,20
+347,Mount Owen,"13,360",622,Saguache,Sangre de Cristo Range,1.9,13
+347,T 7,"13,360",474,Ouray,San Juan Mountains,0.9,12
+349,Rogers Peak,"13,359",500,Clear Creek,Front Range,2,68
+,Peerless Mountain,"13,356",157,Lake/Park,Central Colorado Ranges,0.5,104
+350,Kendall Mountain,"13,352",326,San Juan,San Juan Mountains,0.7,29
+351,Beattie Peak,"13,351",343,San Juan/San Miguel,San Juan Mountains,0.3,33
+352,Finnegan Peak,"13,350",781,Eagle,Sawatch Range,1.3,4
+352,Peak 13320,"13,350",746,Hinsdale,San Juan Mountains,1.7,6
+352,Peak 13342,"13,350",740,Hinsdale,San Juan Mountains,1.4,9
+352,Peak 13320,"13,350",450,Hinsdale,San Juan Mountains,1.2,7
+352,Tincup Peak,"13,350",428,Chaffee/Gunnison,Sawatch Range,1,29
+357,Peak 13336,"13,348",649,Pitkin,Elk Range Area,1.1,5
+358,Bartlett Mountain,"13,347",387,Lake,Central Colorado Ranges,0.7,15
+,Little Pikes,"13,347",240,El Paso,Front Range,0.5,57
+359,Mount Herard,"13,346",2026,Saguache,Sangre de Cristo Range,4.6,25
+359,Brown Mountain,"13,346",646,Ouray/San Juan,San Juan Mountains,1,13
+,Twin Peaks,"13,340",250,Chaffee,Sawatch Range,0.7,16
+361,Coney Benchmark,"13,339",983,Hinsdale,San Juan Mountains,1.9,33
+362,Proposal Peak,"13,338",574,San Juan,San Juan Mountains,1.7,9
+,East Thorn,"13,337",254,Summit,Central Colorado Ranges,0.5,10
+,Peak 13320,"13,337",190,Clear Creek,Front Range,0.6,12
+,Peak 13321,"13,337",169,San Juan,San Juan Mountains,0.5,1
+363,Mount Maxwell,"13,336",304,Las Animas,Sangre de Cristo Range,0.6,24
+,Cinnamon Mountain,"13,335",292,San Juan,San Juan Mountains,0.6,22
+364,Venable Peak,"13,333",619,Saguache,Sangre de Cristo Range,1.5,24
+365,Peak 13322,"13,331",892,Chaffee/Gunnison,Sawatch Range,2.2,7
+,Leahy Peak,"13,331",162,Pitkin,Elk Range Area,0.7,12
+366,West Buffalo Peak,"13,330",1996,Chaffee/Park,Central Colorado Ranges,9.6,69
+366,Peak 13317,"13,330",755,Chaffee,Sawatch Range,2.2,13
+368,Sunshine Mountain,"13,329",1088,Hinsdale,San Juan Mountains,2.4,13
+368,McHenrys Peak,"13,329",884,Grand/Larimer,Front Range,1.2,34
+370,Trico Peak,"13,328",448,Ouray/San Juan/San Miguel,San Juan Mountains,0.8,34
+371,Booby Prize,"13,324",458,Chaffee/Gunnison,Sawatch Range,0.9,8
+372,Peak 13310,"13,323",336,La Plata,San Juan Mountains,0.6,7
+,Ski Hayden Peak,"13,323",140,Pitkin,Elk Range Area,0.6,5
+373,De Anza Peak,"13,322",466,Costilla,Sangre de Cristo Range,1,15
+,Storm Peak,"13,322",163,Larimer,Front Range,0.4,46
+374,Mount Daly,"13,321",818,Pitkin,Elk Range Area,1.2,18
+,Emery Peak,"13,321",165,San Juan,San Juan Mountains,0.4,12
+375,William Benchmark,"13,320",566,Pitkin,Sawatch Range,1.5,11
+,Palmyra Peak,"13,320",185,San Miguel,San Juan Mountains,0.4,19
+,El Punto,"13,319",319,Hinsdale,San Juan Mountains,0.6,8
+376,V 2,"13,318",415,San Juan,San Juan Mountains,0.6,39
+377,Mount Alice,"13,317",846,Boulder/Grand,Front Range,1.4,41
+377,Malamute Peak,"13,317",332,Pitkin,Elk Range Area,0.7,19
+379,CT Peak,"13,316",422,Hinsdale,San Juan Mountains,0.8,13
+379,Peak 13312,"13,316",420,Gunnison/Pitkin,Elk Range Area,0.6,16
+381,T 8,"13,315",497,Ouray,San Juan Mountains,0.7,16
+382,Peak 13308,"13,313",605,San Juan,San Juan Mountains,0.7,9
+382,Peak 13280,"13,313",413,Hinsdale/Ouray,San Juan Mountains,0.7,10
+382,Mount Warren,"13,313",375,Clear Creek,Front Range,0.9,76
+385,East Storm,"13,312",421,San Juan,San Juan Mountains,0.5,17
+386,Tellurium Peak,"13,311",504,Gunnison/Pitkin,Sawatch Range,1.1,5
+386,Hermit Peak,"13,311",319,Custer/Saguache,Sangre de Cristo Range,0.5,36
+388,Aztec Mountain,"13,310",616,La Plata,San Juan Mountains,1.7,9
+388,Baldy no es Cinco,"13,310",388,Hinsdale,San Juan Mountains,0.7,16
+390,Peak 13285,"13,308",680,Mineral/Saguache,San Juan Mountains,2.1,15
+390,Grizzly Peak,"13,308",603,Gunnison,Sawatch Range,1.8,8
+,Peak 13280,"13,307",271,San Juan,San Juan Mountains,0.9,2
+,Waverly Mountain,"13,307",179,Chaffee,Sawatch Range,0.4,12
+392,Galena Mountain,"13,306",367,San Juan,San Juan Mountains,2,15
+393,Peak G,"13,305",1027,Eagle/Summit,Central Colorado Ranges,2.1,16
+394,Summit Peak,"13,304",2737,Archuleta,San Juan Mountains,39.6,77
+394,Middle Peak,"13,304",2000,Dolores/San Miguel,San Juan Mountains,1.1,10
+394,Peak 13295,"13,304",435,Chaffee/Gunnison,Sawatch Range,1.3,7
+397,Sheep Mountain,"13,303",661,San Juan,San Juan Mountains,1.8,11
+398,Geissler Mountain,"13,302",488,Pitkin,Sawatch Range,0.6,29
+398,East Buffalo Peak,"13,302",479,Chaffee/Park,Central Colorado Ranges,0.9,63
+,Peak 13280,"13,300",297,San Juan/San Miguel,San Juan Mountains,0.6,24
+400,Electric Peak,"13,296",832,San Juan,San Juan Mountains,0.5,10
+401,Truro Peak,"13,295",825,Pitkin,Sawatch Range,1.7,7
+402,Citadel Peak,"13,294",326,Clear Creek/Grand,Front Range,0.6,110
+,Brown Mountain 13288,"13,294",173,Ouray/San Juan,San Juan Mountains,0.6,2
+403,Peak Five,"13,291",319,San Juan,San Juan Mountains,0.6,8
+404,Peak 13278,"13,289",638,Hinsdale,San Juan Mountains,0.9,19
+404,Peak 13280,"13,289",583,Lake/Pitkin,Sawatch Range,1,6
+406,Dolores Peak,"13,288",723,Dolores/San Miguel,San Juan Mountains,4.5,11
+407,Peak 13302,"13,287",719,La Plata,San Juan Mountains,1.6,6
+,Echo Mountain,"13,286",204,La Plata,San Juan Mountains,0.6,2
+408,Bonita Peak,"13,285",478,San Juan,San Juan Mountains,0.6,17
+,Peak 13280,"13,284",250,Chaffee,Sawatch Range,0.6,3
+409,Tabor Peak,"13,282",815,Pitkin,Sawatch Range,2.5,5
+410,Whitney Peak,"13,281",714,Eagle,Sawatch Range,1.2,21
+411,Seigal Mountain,"13,280",382,Hinsdale/San Juan,San Juan Mountains,0.6,14
+,Peak 13270,"13,280",157,San Juan,San Juan Mountains,0.6,5
+,Gibraltar Mountain,"13,280",80,Larimer,Front Range,0.4,7
+412,Ruby Mountain,"13,278",434,Summit,Front Range,0.7,33
+,Mendota Peak,"13,278",208,Ouray/San Miguel,San Juan Mountains,0.5,11
+413,P 3,"13,277",548,La Plata,San Juan Mountains,0.6,6
+413,Comanche Peak,"13,277",478,Custer/Saguache,Sangre de Cristo Range,0.7,29
+415,Weyah Peak,"13,276",429,Pitkin,Sawatch Range,2,5
+,Whitehead Peak,"13,275",138,San Juan,San Juan Mountains,0.4,21
+416,Peak 13261,"13,274",329,Hinsdale,San Juan Mountains,0.7,12
+417,Darley Mountain,"13,273",528,Hinsdale/Ouray,San Juan Mountains,2.2,21
+,Mount Lady Washington,"13,273",275,Larimer,Front Range,0.6,141
+418,Marble Mountain,"13,272",519,Custer/Saguache,Sangre de Cristo Range,1,25
+419,James Peak,"13,271",737,Clear Creek/Gilpin/Grand,Front Range,1.5,351
+,Purgatoire Peak - West Peak,"13,271",263,Costilla,Sangre de Cristo Range,0.7,7
+420,Henry Mountain,"13,270",1662,Gunnison,Sawatch Range,10.9,19
+420,Wildhorse Peak,"13,270",967,Ouray,San Juan Mountains,3.9,17
+,Tigger Peak,"13,270",237,Chaffee,Sawatch Range,0.6,71
+,Pecks Peak,"13,270",70,Chaffee,Sawatch Range,0.3,17
+,Twin Peaks Northeast,"13,269",108,Chaffee,Sawatch Range,0.3,8
+422,Antora Peak,"13,268",2414,Saguache,Sawatch Range,6.4,38
+423,S 8,"13,267",552,Ouray/San Miguel,San Juan Mountains,1.6,6
+423,The Heisspitz,"13,267",358,San Juan,San Juan Mountains,0.9,5
+423,Knife Point,"13,267",309,La Plata,San Juan Mountains,0.3,8
+426,Geneva Peak,"13,265",945,Park/Summit,Front Range,3.9,66
+,Peak 13280,"13,265",267,San Juan/San Miguel,San Juan Mountains,0.4,1
+427,Crestolita,"13,264",518,Saguache,Sangre de Cristo Range,0.4,13
+428,Peak 13240,"13,261",454,Gunnison,Elk Range Area,0.8,7
+,Mount Bancroft,"13,261",255,Clear Creek/Grand,Front Range,0.7,112
+,Middle Peak - West Peak,"13,261",61,Dolores/San Miguel,San Juan Mountains,0.3,3
+429,Peak 13255,"13,259",532,Chaffee,Sawatch Range,1.6,12
+430,Peak 13253,"13,257",401,Chaffee/Gunnison,Sawatch Range,1.7,9
+,Peak 13253 South,"13,257",114,Chaffee/Gunnison,Sawatch Range,2,7
+431,Peak 13240,"13,256",392,Hinsdale,San Juan Mountains,1.2,15
+431,S 4,"13,256",314,Ouray,San Juan Mountains,0.6,6
+433,Peak 13244,"13,254",416,Pitkin,Elk Range Area,1.1,5
+,Hancock Peak,"13,254",214,San Juan,San Juan Mountains,0.7,3
+434,Broken Hill,"13,253",793,Hinsdale,San Juan Mountains,1.6,20
+435,Peak Eight,"13,252",330,San Juan,San Juan Mountains,0.4,7
+436,Peak 13235,"13,251",373,Chaffee/Gunnison,Sawatch Range,0.9,10
+437,Peak 13248,"13,250",326,Eagle,Sawatch Range,0.7,122
+438,Spring Mountain,"13,248",450,Custer/Saguache,Sangre de Cristo Range,0.6,22
+439,Belleview Mountain,"13,246",703,Gunnison/Pitkin,Elk Range Area,1.4,13
+,California Mountain,"13,245",280,San Juan,San Juan Mountains,0.6,8
+,Van Wit,"13,244",158,Chaffee/Gunnison,Sawatch Range,0.4,14
+440,Fortress Peak,"13,243",465,Hinsdale,San Juan Mountains,0.6,18
+440,V 9,"13,243",377,San Juan/San Miguel,San Juan Mountains,0.8,16
+440,Hagar Mountain,"13,243",359,Clear Creek/Grand,Front Range,0.6,77
+443,Peak 13232,"13,241",409,Gunnison,Elk Range Area,0.3,7
+,Notch Mountain,"13,241",196,Eagle,Sawatch Range,0.9,56
+444,Weminuche Peak,"13,239",830,Hinsdale,San Juan Mountains,1.7,6
+444,Peak 13232,"13,239",332,Chaffee,Sawatch Range,1.2,7
+446,Hesperus Mountain,"13,238",2844,Montezuma,San Juan Mountains,24.5,96
+446,Mount Sniktau,"13,238",518,Clear Creek,Front Range,2.4,417
+446,Red Mountain,"13,238",356,Summit,Front Range,0.6,43
+,Landslide Peak,"13,238",109,Park/Summit,Front Range,0.4,43
+449,Turner Peak,"13,236",1155,Chaffee,Sawatch Range,3.5,34
+450,Peak Q,"13,234",741,Summit,Central Colorado Ranges,2,8
+450,S 7,"13,234",399,Ouray/San Miguel,San Juan Mountains,0.8,6
+450,Lavender Peak,"13,234",375,Montezuma,San Juan Mountains,0.5,32
+453,Peak 13230,"13,231",788,San Juan,San Juan Mountains,1.9,9
+,Peak F,"13,230",242,Eagle/Summit,Central Colorado Ranges,0.3,14
+,Little Pike North Peak,"13,230",123,El Paso,Front Range,0.4,11
+454,Peak L,"13,229",768,Summit,Central Colorado Ranges,1.6,10
+,P 1,"13,229",170,La Plata,San Juan Mountains,0.3,2
+455,Greenhalgh Mountain,"13,228",420,San Juan,San Juan Mountains,0.7,10
+456,Peak 13222,"13,227",412,La Plata,San Juan Mountains,0.6,7
+,Peak 13230,"13,227",284,Pitkin,Sawatch Range,0.7,4
+457,Peak Z,"13,225",748,Summit,Central Colorado Ranges,3.9,9
+457,Peak 13229,"13,225",330,Costilla,Sangre de Cristo Range,0.5,6
+459,Fairview Peak,"13,224",1248,Gunnison,Sawatch Range,4.6,19
+459,Peak C,"13,224",532,Eagle/Summit,Central Colorado Ranges,0.6,22
+,Thirsty Peak,"13,224",248,Custer/Saguache,Sangre de Cristo Range,0.8,17
+,Macomber Peak,"13,224",125,San Juan,San Juan Mountains,0.5,17
+461,Hassell Peak,"13,223",401,Clear Creek/Grand,Front Range,1.4,76
+462,Engineer Mountain,"13,222",411,Hinsdale/Ouray,San Juan Mountains,0.8,33
+463,Peak 13160,"13,221",374,Pitkin,Elk Range Area,0.5,5
+464,Ellingwood Ridge,"13,220",306,Chaffee,Sawatch Range,1.3,20
+465,Peak 13222 B,"13,219",336,Hinsdale,San Juan Mountains,0.4,7
+,Peak 13220,"13,219",285,Gunnison,Sawatch Range,0.8,2
+,Red Peak,"13,219",100,Park/Summit,Front Range,0.6,37
+466,Peak 13202,"13,218",438,Lake/Pitkin,Sawatch Range,1,9
+466,Peak 13212,"13,218",342,Pitkin,Sawatch Range,0.7,5
+468,Mount Audubon,"13,217",817,Boulder,Front Range,3.2,246
+,Leaning Peak South,"13,217",297,Costilla,Sangre de Cristo Range,1,10
+,Hardrocker,"13,216",132,San Juan,San Juan Mountains,0.5,17
+469,Irving Peak,"13,215",630,La Plata,San Juan Mountains,1.2,5
+469,Peak 13206,"13,215",315,Hinsdale/Ouray,San Juan Mountains,0.5,12
+471,Eagle Peak,"13,214",565,Custer,Sangre de Cristo Range,1.6,20
+,Campbell Peak,"13,213",225,San Miguel,San Juan Mountains,0.4,12
+,Peak E,"13,213",207,Eagle/Summit,Central Colorado Ranges,0.3,13
+,Peak 13201,"13,213",100,Summit,Front Range,1.1,30
+472,Jacque Peak,"13,212",2069,Summit,Central Colorado Ranges,4.3,54
+472,Jones Mountain,"13,212",631,Chaffee,Sawatch Range,2.9,36
+472,Peak 13216,"13,212",331,Pitkin,Elk Range Area,0.7,7
+,Lambertson Peak,"13,212",222,Gunnison,Elk Range Area,0.5,6
+475,Teocalli Mountain,"13,211",785,Gunnison,Elk Range Area,2.1,20
+475,Hayden Mountain,"13,211",561,Ouray,San Juan Mountains,1.1,23
+477,Gladstone Ridge,"13,210",926,Chaffee,Sawatch Range,2.6,17
+478,Mount Nebo,"13,208",507,San Juan,San Juan Mountains,0.6,9
+479,Bennett Peak,"13,206",1752,Rio Grande,San Juan Mountains,17.1,79
+479,Peak 13201,"13,206",635,Hinsdale/Ouray,San Juan Mountains,1.3,10
+479,Tuttle Mountain,"13,206",494,San Juan,San Juan Mountains,1.3,15
+479,Peak 9,"13,206",413,Summit,Central Colorado Ranges,0.5,92
+483,Peak 13203,"13,205",409,Pitkin,Sawatch Range,0.5,9
+484,Mountain Boy Peak,"13,204",652,Lake/Pitkin,Sawatch Range,2.1,18
+485,Mount Valhalla,"13,201",767,Summit,Central Colorado Ranges,1.6,21
+,Lenawee Mountain,"13,200",295,Summit,Front Range,1,37
+,Little Finger,"13,200",134,La Plata,San Juan Mountains,0.2,0
+486,London Mountain,"13,199",544,Park,Central Colorado Ranges,1.1,55
+,King Solomon Mountain,"13,196",264,San Juan,San Juan Mountains,0.4,9
+,Black Mountain,"13,196",129,Summit,Front Range,0.4,8
+487,Homestake Peak,"13,195",1463,Eagle/Lake,Sawatch Range,5.3,40
+,Mount Moss,"13,193",230,Montezuma,San Juan Mountains,0.2,25
+,Yellow Mountain South,"13,192",204,San Miguel,San Juan Mountains,0.6,4
+,Powell Peak,"13,191",299,Grand/Larimer,Front Range,0.4,30
+,Bullion Mountain,"13,190",160,La Plata,San Juan Mountains,0.8,3
+,Sheep Mountain,"13,188",108,Dolores,San Juan Mountains,0.7,6
+488,Red Peak,"13,185",933,Summit,Central Colorado Ranges,1.2,46
+,Mount Helen,"13,185",280,Summit,Central Colorado Ranges,0.6,69
+,Rowe Mountain,"13,184",24,Larimer,Front Range,0.2,10
+489,Copeland Mountain,"13,182",1160,Boulder,Front Range,4,25
+490,Santa Fe Peak,"13,181",450,Clear Creek/Summit,Front Range,1.2,84
+,Peak 13160,"13,179",271,Mineral/Saguache,San Juan Mountains,0.4,8
+491,Peak 13164,"13,178",373,Hinsdale,San Juan Mountains,0.8,13
+,Southwest Lenawee,"13,177",223,Summit,Front Range,0.4,30
+492,Conejos Peak,"13,176",1912,Conejos,San Juan Mountains,8.1,75
+493,Beaubien Peak,"13,175",578,Costilla,Sangre de Cristo Range,1.9,12
+493,Fancy Peak,"13,175",363,Eagle,Sawatch Range,1.4,16
+495,Mount Valois,"13,173",300,La Plata,San Juan Mountains,1.4,6
+496,Kelso Mountain,"13,171",740,Clear Creek,Front Range,1.1,96
+496,Stony Pass Peak,"13,171",577,San Juan,San Juan Mountains,0.6,18
+498,Peak 13162,"13,170",359,Gunnison/Pitkin,Elk Range Area,0.9,5
+499,Peak 13169,"13,169",995,San Juan,San Juan Mountains,1.2,9
+499,Sheep Mountain C,"13,169",592,Gunnison,San Juan Mountains,2.1,11
+499,Peak 13160,"13,169",521,Hinsdale,San Juan Mountains,2.1,8
+499,S 9,"13,169",350,Ouray/San Miguel,San Juan Mountains,0.7,6
+503,Peak 13162,"13,168",494,Hinsdale/Mineral,San Juan Mountains,0.9,16
+504,Grand Turk,"13,166",384,San Juan,San Juan Mountains,0.6,34
+505,Peak 13155,"13,165",422,Mineral/Saguache,San Juan Mountains,0.8,20
+506,Pomeroy Mountain,"13,164",588,Chaffee,Sawatch Range,1.9,15
+506,Peak 13121,"13,164",342,La Plata,San Juan Mountains,0.5,4
+508,Arikaree Peak,"13,163",592,Boulder/Grand,Front Range,0.6,10
+509,Amherst Mountain,"13,162",1209,La Plata,San Juan Mountains,1.5,6
+509,V 5,"13,162",606,San Juan,San Juan Mountains,1.3,11
+511,Twilight Peak,"13,161",2336,San Juan,San Juan Mountains,4.6,27
+512,Babcock Peak,"13,160",504,La Plata,San Juan Mountains,0.7,16
+,Baldy Mountain,"13,160",185,Pitkin,Elk Range Area,0.6,5
+513,Peak 13153,"13,159",394,Saguache,Sangre de Cristo Range,0.5,14
+,Mount Sniktau - South Peak,"13,159",136,Clear Creek,Front Range,0.4,223
+514,Montezuma Peak,"13,158",689,Archuleta,San Juan Mountains,1.6,26
+,Window Peak,"13,157",285,Hinsdale,San Juan Mountains,0.8,14
+515,Taylor Peak,"13,156",416,Grand/Larimer,Front Range,1,58
+516,South River Peak,"13,155",2458,Mineral,San Juan Mountains,21.1,17
+,Guyselman Mountain,"13,155",260,Summit,Central Colorado Ranges,0.6,6
+517,Peak 13158,"13,154",372,Hinsdale,San Juan Mountains,1.1,14
+517,Little Horn Peak,"13,154",328,Custer,Sangre de Cristo Range,0.7,20
+,Could Be,"13,153",235,San Juan,San Juan Mountains,0.5,0
+519,Ogalalla Peak,"13,152",693,Boulder/Grand,Front Range,1.3,21
+519,Virginia Peak West,"13,152",351,Chaffee,Sawatch Range,0.6,10
+521,Peak 13147,"13,148",505,Chaffee,Sawatch Range,1.1,15
+521,West Truro,"13,148",332,Pitkin,Sawatch Range,0.4,7
+,Peak 13145,"13,148",292,Pitkin,Sawatch Range,0.5,4
+523,Medano Peak,"13,145",648,Saguache,Sangre de Cristo Range,0.7,12
+,Emerson Mountain,"13,145",294,La Plata,San Juan Mountains,0.5,4
+524,Peak 13159,"13,144",354,San Juan,San Juan Mountains,0.5,13
+524,Peak 13120,"13,144",327,Chaffee/Gunnison,Sawatch Range,0.9,5
+524,Peak 13145,"13,144",308,San Miguel,San Juan Mountains,0.5,22
+527,Willoughby Mountain,"13,143",440,Pitkin,Elk Range Area,1.5,5
+527,Peak 13120,"13,143",390,Gunnison/Pitkin,Elk Range Area,0.8,6
+527,Hunchback Mountain,"13,143",359,San Juan,San Juan Mountains,0.6,23
+,Peak 13120,"13,143",256,Hinsdale,San Juan Mountains,0.3,4
+,Rain Peak,"13,141",253,Summit,Central Colorado Ranges,0.5,8
+530,Precipice Peak,"13,140",497,Hinsdale,San Juan Mountains,1.5,21
+531,ST Bear Creek Benchmark,"13,139",479,Ouray,San Juan Mountains,0.8,11
+,Sewanee Peak,"13,138",246,Chaffee,Sawatch Range,0.5,12
+532,Peak 13108,"13,137",447,Pitkin,Sawatch Range,0.8,7
+532,Peters Peak,"13,137",368,La Plata,San Juan Mountains,0.4,7
+534,Savage Peak,"13,134",1135,Eagle,Sawatch Range,2.7,28
+,Mount Kennedy,"13,134",259,La Plata,San Juan Mountains,0.4,7
+,Spiller Peak,"13,134",199,La Plata/Montezuma,San Juan Mountains,0.6,9
+535,Boskoff Peak,"13,133",454,Dolores/San Miguel,San Juan Mountains,0.9,11
+,Sullivan Mountain,"13,133",268,Park/Summit,Front Range,0.6,65
+,Peak C Prime,"13,133",145,Eagle/Summit,Central Colorado Ranges,0.2,10
+536,Mount Eva,"13,131",428,Clear Creek/Grand,Front Range,0.6,122
+,Gore Thumb,"13,131",128,Summit,Central Colorado Ranges,0.3,3
+537,Hayden Mountain North,"13,130",509,Ouray,San Juan Mountains,1.2,10
+537,Peak 13122,"13,130",321,Saguache,Sangre de Cristo Range,1.2,6
+539,Pika Peak,"13,129",514,Eagle,Sawatch Range,0.7,4
+,Robeson Peak,"13,129",199,Clear Creek,Front Range,0.6,57
+,Black Benchmark,"13,129",9,Eagle/Summit,Central Colorado Ranges,0.2,8
+540,Mount Flora,"13,128",652,Clear Creek/Grand,Front Range,2.4,308
+,Peak 13123,"13,127",293,Custer/Saguache,Sangre de Cristo Range,0.5,24
+,Point Pun,"13,126",132,San Juan,San Juan Mountains,0.6,2
+541,Kiowa Peak,"13,125",532,Boulder,Front Range,1.2,8
+541,Cupid,"13,125",376,Clear Creek/Summit,Front Range,1,347
+543,Mount Kreutzer,"13,122",355,Chaffee/Gunnison,Sawatch Range,1.4,20
+544,Fitzpatrick Peak,"13,120",963,Chaffee/Gunnison,Sawatch Range,1.7,16
+,Peak 13120,"13,120",240,Hinsdale,San Juan Mountains,0.9,5
+545,Peak 13110,"13,119",437,San Juan,San Juan Mountains,0.8,9
+545,Francisco Peak,"13,119",406,Costilla,Sangre de Cristo Range,1,11
+,Peak Twelve,"13,118",283,La Plata,San Juan Mountains,0.5,6
+547,Baldy Lejos,"13,117",821,Hinsdale/Saguache,San Juan Mountains,1.9,6
+547,Peak 13109,"13,117",342,San Juan,San Juan Mountains,0.6,19
+549,Cow Benchmark,"13,115",512,Ouray,San Juan Mountains,2.3,10
+550,Peak 13111,"13,114",423,Mineral/Saguache,San Juan Mountains,2.6,13
+551,Isolation Peak,"13,113",896,Grand/Boulder,Front Range,2.2,25
+552,Bushnell Peak,"13,112",2431,Fremont/Saguache,Sangre de Cristo Range,10.9,52
+,Lomo Liso Mountain,"13,112",292,Costilla,Sangre de Cristo Range,0.8,12
+,Leaning Peak North,"13,112",172,Costilla,Sangre de Cristo Range,0.5,8
+553,Lizard Head,"13,111",1125,Dolores/San Miguel,San Juan Mountains,1.7,20
+553,Hancock Peak,"13,111",467,Chaffee/Gunnison,Sawatch Range,1.2,13
+555,Peak 13106,"13,110",721,Hinsdale,San Juan Mountains,1.5,11
+556,Peak 13091,"13,108",590,Hinsdale,San Juan Mountains,1.8,12
+556,Guyselman Mountain - Peak N,"13,108",410,Summit,Central Colorado Ranges,0.6,6
+,Thunder Mountain,"13,106",173,La Plata,San Juan Mountains,0.6,4
+558,Middle Mountain,"13,105",505,Chaffee,Sawatch Range,1.1,8
+558,Corbett Peak,"13,105",351,Ouray,San Juan Mountains,0.5,12
+,South Twilight Peak,"13,104",182,San Juan,San Juan Mountains,0.3,17
+560,Peak Twenty Two,"13,102",305,La Plata,San Juan Mountains,0.4,4
+561,Peak 13080,"13,101",480,Hinsdale,San Juan Mountains,0.9,8
+561,Peak 13090,"13,101",371,Pitkin,Sawatch Range,1,6
+,Tomboy Peak,"13,100",299,San Miguel,San Juan Mountains,0.5,11
+,Peak 13090,"13,100",231,Chaffee/Pitkin,Sawatch Range,0.5,3
+,Peak H,"13,099",163,Eagle/Summit,Central Colorado Ranges,0.2,6
+,Palomino Point,"13,099",115,Summit,Central Colorado Ranges,0.1,15
+563,Peak 13093,"13,094",348,Hinsdale,San Juan Mountains,1.3,15
+,Peak 13092,"13,094",151,Hinsdale/Ouray,San Juan Mountains,0.3,6
+564,Peak 13078,"13,093",748,Chaffee,Sawatch Range,0.9,16
+564,Peak X,"13,093",484,Summit,Central Colorado Ranges,0.8,11
+564,Virginia Peak,"13,093",419,Chaffee,Sawatch Range,0.8,19
+567,Paiute Peak,"13,092",450,Boulder/Grand,Front Range,0.9,81
+568,Snowdon Peak,"13,089",1329,San Juan,San Juan Mountains,3.5,36
+569,Peak 13085,"13,088",603,Eagle,Sawatch Range,2.9,5
+570,Mount Solitude,"13,085",700,Eagle/Summit,Central Colorado Ranges,2,17
+571,Mount Garfield,"13,084",372,San Juan,San Juan Mountains,0.6,7
+,Winfield Peak,"13,084",122,Chaffee,Sawatch Range,0.7,10
+572,Boreas Mountain,"13,083",915,Park,Front Range,2,57
+572,Huerfanito,"13,083",498,Costilla/Huerfano,Sangre de Cristo Range,0.8,11
+572,North Twilight Peak,"13,083",349,San Juan,San Juan Mountains,0.4,23
+,Peak Twenty One,"13,083",235,La Plata,San Juan Mountains,0.3,3
+575,North Traverse,"13,082",648,Eagle/Summit,Central Colorado Ranges,1.3,33
+576,Peak 13070,"13,081",325,Chaffee,Sawatch Range,0.6,12
+577,Whale Peak,"13,080",981,Park/Summit,Front Range,4,77
+,Florida Mountain,"13,080",159,La Plata,San Juan Mountains,0.5,4
+578,Keller Mountain,"13,079",724,Summit,Central Colorado Ranges,1.6,28
+,Peak 13087,"13,079",259,San Juan,San Juan Mountains,0.4,26
+,Peak 13081,"13,079",246,Lake,Sawatch Range,1.1,1
+579,West Tellurium,"13,077",452,Gunnison/Pitkin,Sawatch Range,1,8
+579,Peak 13075,"13,077",387,San Juan,San Juan Mountains,0.5,14
+581,Blackwall Mountain,"13,076",469,Ouray,San Juan Mountains,1.3,12
+581,Peak 13069,"13,076",324,San Juan,San Juan Mountains,1.4,12
+583,Sheep Mountain,"13,073",376,La Plata,San Juan Mountains,0.4,7
+583,Kendall Benchmark,"13,073",349,San Juan,San Juan Mountains,0.7,32
+585,Peak 13080,"13,069",570,Eagle,Sawatch Range,1,4
+,Centennial Peak,"13,068",264,Montezuma,San Juan Mountains,0.4,25
+,Peak 13080,"13,067",248,Alamosa,Sangre de Cristo Range,0.9,1
+586,Mount Owen,"13,064",1362,Gunnison,Elk Range Area,7.1,17
+586,Peak 13062,"13,064",861,Saguache,Sangre de Cristo Range,1.6,5
+588,Peak 13040,"13,063",340,Pitkin,Elk Range Area,0.6,2
+588,Chalk Rock Mountain,"13,063",304,Chaffee/Gunnison,Sawatch Range,1,25
+590,Peak 13062,"13,062",649,Gunnison/Pitkin,Elk Range Area,1.8,7
+590,Grand Traverse,"13,062",323,Eagle/Summit,Central Colorado Ranges,0.6,40
+,Middle Mountain,"13,062",121,Chaffee,Sawatch Range,0.3,50
+592,Hunts Peak,"13,061",880,Fremont/Saguache,Sangre de Cristo Range,4.2,20
+593,West Needle Mountain,"13,060",573,San Juan,San Juan Mountains,0.7,11
+594,N 2,"13,059",390,San Juan,San Juan Mountains,0.6,15
+594,Peak 13040,"13,059",368,Saguache,Sangre de Cristo Range,0.4,5
+596,Houghton Mountain,"13,058",444,San Juan,San Juan Mountains,1.2,15
+,Peak 13040,"13,057",291,La Plata,San Juan Mountains,0.4,2
+597,West Partner Peak,"13,056",567,Eagle/Summit,Central Colorado Ranges,0.9,30
+597,East Partner Peak,"13,056",547,Eagle/Summit,Central Colorado Ranges,1,21
+,West Dyer Mountain,"13,056",263,Lake,Central Colorado Ranges,0.4,22
+599,Peak 13054,"13,054",611,Saguache,Sangre de Cristo Range,1.6,6
+,Mount Chiquita,"13,054",266,Larimer,Front Range,0.5,165
+,Devils Playground,"13,054",128,Teller,Front Range,0.3,280
+,Peak D,"13,050",245,Eagle/Summit,Central Colorado Ranges,0.3,11
+,Peak 13040,"13,049",274,Lake/Pitkin,Sawatch Range,0.4,26
+,Green Mountain,"13,049",49,San Juan,San Juan Mountains,0.5,10
+600,Peak 13051,"13,048",341,Hinsdale,San Juan Mountains,0.7,9
+601,Peak 13039,"13,047",429,Pitkin,Elk Range Area,0.6,8
+601,Dead Man Peak,"13,047",404,Saguache,Sangre de Cristo Range,0.8,6
+603,Peak 13042,"13,043",924,San Juan,San Juan Mountains,1.8,12
+,Saint Sophia Ridge,"13,042",125,Ouray/San Miguel,San Juan Mountains,0.5,1
+,Mount Rejection,"13,041",162,Chaffee,Sawatch Range,0.6,3
+604,West Elk Peak,"13,040",3094,Gunnison,Elk Range Area,13.8,37
+604,Organ Mountain,"13,040",456,La Plata,San Juan Mountains,0.4,4
+,Silver Mesa,"13,040",80,La Plata,San Juan Mountains,0.2,1
+,Peak 13040,"13,039",261,Hinsdale,San Juan Mountains,1.1,3
+,Wolcott Mountain,"13,039",162,Ouray,San Juan Mountains,0.4,1
+,United States Mountain,"13,038",138,Ouray,San Juan Mountains,0.5,1
+606,Snow Peak,"13,037",498,Eagle,Central Colorado Ranges,0.8,22
+,Niwot Ridge,"13,037",162,Boulder,Front Range,0.5,21
+607,Williams Mountain South,"13,036",480,Pitkin,Sawatch Range,1.4,10
+608,Peak 13050,"13,034",523,Chaffee,Sawatch Range,1.3,12
+,Eagle Peak,"13,033",203,Eagle,Sawatch Range,0.4,4
+,Cuba Benchmark,"13,033",117,Hinsdale/San Juan,San Juan Mountains,0.9,8
+609,Peak 13026,"13,032",341,Pitkin,Sawatch Range,1.4,3
+609,Old Baldy,"13,032",332,Boulder,Front Range,0.6,79
+611,Peak 13028,"13,031",322,Saguache,Sangre de Cristo Range,0.7,6
+612,Peak 13034,"13,030",665,Hinsdale/Mineral,San Juan Mountains,1.9,6
+613,The Unicorn,"13,029",425,Archuleta,San Juan Mountains,0.6,25
+,Peak 13000,"13,029",289,Hinsdale,San Juan Mountains,0.9,6
+614,Peak 13000,"13,027",376,Saguache,Sangre de Cristo Range,0.7,10
+615,Peak 13015,"13,026",327,Saguache,San Juan Mountains,1.2,8
+,Peak 13030,"13,026",266,La Plata,San Juan Mountains,0.7,1
+616,Peak 13000,"13,025",322,San Miguel,San Juan Mountains,0.8,6
+,Van Wirt Mountain,"13,025",289,Chaffee/Gunnison,Sawatch Range,0.5,11
+,Climber's Point,"13,021",150,Eagle/Summit,Central Colorado Ranges,0.5,12
+,Hope Mountain,"13,019",231,La Plata,San Juan Mountains,0.3,8
+617,Chief Mountain,"13,018",1611,Hinsdale,San Juan Mountains,9.6,8
+,Dorothy Peak,"13,018",217,Gunnison,Elk Range Area,0.4,4
+618,Peak 13017,"13,016",393,Hinsdale,San Juan Mountains,0.8,10
+,North Irving,"13,016",237,La Plata,San Juan Mountains,0.4,3
+619,Peak 13016,"13,015",684,Hinsdale,San Juan Mountains,1.3,8
+620,Pennsylvania Mountain,"13,013",709,Park,Central Colorado Ranges,1.4,82
+,Peak 13000,"13,012",289,Pitkin,Elk Range Area,0.5,4
+621,Peak 13003,"13,010",502,Pitkin,Sawatch Range,1.9,3
+622,Twin Sisters North,"13,008",533,Fremont/Saguache,Sangre de Cristo Range,1,18
+623,Peak 13001,"13,005",502,Pitkin,Sawatch Range,0.9,13
+,Square Top Mountain,"13,005",266,Gunnison,Sawatch Range,0.6,16
+624,Peak 8,"13,004",613,Summit,Central Colorado Ranges,1.2,140
+624,Golden Bear Peak,"13,004",303,Clear Creek/Summit,Front Range,1.1,111
+,Peak 13000,"13,004",275,Saguache,San Juan Mountains,0.8,5
+,Ruffner Mountain,"13,003",3,San Miguel,San Juan Mountains,0.4,4
+626,Overlook Point,"13,002",764,La Plata,San Juan Mountains,2.4,8
+626,Peak 12990,"13,002",457,Hinsdale,San Juan Mountains,1,11
+628,Peak 12977,"13,001",665,Eagle,Sawatch Range,1.9,4
+,Peak 13005,"13,001",159,Custer/Saguache,Sangre de Cristo Range,0.5,10
+,Treasure Mountain,"12,800",224,San Juan,San Juan Mountains,0.9,7
